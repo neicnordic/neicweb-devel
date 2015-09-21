@@ -1,0 +1,31 @@
+---
+title: "We are so great"
+summary: "We are so incredibly great"
+image: "/media/koala-mini.jpg"
+---
+
+= We are so great =
+
+'''We are so incredibly great '''
+
+<a href="/media/koala.jpg">
+<img class="smallpic" src="/media/koala-mini.jpg">
+</a>
+
+
+
+==NeIC - mal==
+ 
+''Målsætning'': NeIC faciliterer udvikling og drift af e-infrastruktur på områder af fælles nordisk interesse.
+
+''Baggrund'': NeIC blev en organisatorisk del af NordForsk i 2012. NeIC's medarbejdere er spredt over Norden, da størstedelen er tekniske eksperter tilknyttet universiteter og e-infrastrukturcentre.
+
+''Proces'': NeIC opererer i dag fem forskellige projekter med godt 40 medarbejdere.
+
+''Finansiering'': NeIC finansieres af NordForsk med 12 MNOK i 2015 samt 13 MNOK fra de fem nordiske lande
+
+NeIC's projekter er inddelt i fire strategiske områder: 
+* Nordisk Tier-1 – datahåndtering for CERN
+* Generiske projekter som primært udvikler delings- og lagringstjenester for forskningsdata samt en samlet nordisk cloud-tjeneste for forskningssektoren
+* Biomedicin: Projekter som udvikler tjenester for sikker lagring og deling af sensitive data
+* Miljø, som sigter mod at udvikle infrastruktur og datatjenester inden for miljøområdet
