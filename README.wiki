@@ -9,8 +9,29 @@ NeIC is now setting up a copy of the solution developed by Peter Larson at [http
 Please note that this new solution has not yet been put into production, but this manual is being produced in preparation for the changeover.
 
 
-== Changes from NSC ==
-* Mediawiki syntax instead of markdown.
+== Crash course: How to make a news article in the new NeIC web ==
+
+Assuming you have written the text in say word or similar.
+
+* Do you have photos or any other media files? If so, go to the media uploader: 
+** For the production website [https://neic.nbi.dk/int/github/upload/]
+** Or for the test system [https://neic.nbi.dk:59443/int/github/upload/]
+* Follow instructions onscreen. Click "Go live with this" button when done.
+* Go to NeIC Web github [https://github.com/neicnordic]
+** For the production website [https://github.com/neicnordic/neicweb/]
+** Or for the test system [https://github.com/neicnordic/neicweb-devel]
+* News articles live in the _posts folder:
+** Production website: [https://github.com/neicnordic/neicweb-devel/tree/master/_posts]
+** Test system: [https://github.com/neicnordic/neicweb-devel/tree/master/_posts]
+* Click a news article that looks similar to what you want.
+* Click the little pencil top right to "Edit this page".
+* Copy all the article text (click inside text box, Ctlr-A for select all, and Ctrl-C for copy).
+* Go back to the _posts/ directory.
+* Click the little plus next to the _posts/ folder title
+* Paste the article contents that you previously copied.
+* Click the filename box, and add a title on the form YYYY-MM-DD-some-title.wiki notice all lowercase letters and .wiki at the end.
+* Change the filename to what you want (basically, today's date, and a title-separated-with-dashes, and end it with .wiki).
+* Edit the article so it looks like you want it, using mediawiki syntax [link here]. You may want to choose "soft wrap" in the drop down menu to the top right, so long lines do not disappear off the edge of the screen while you are writing.
 
 == A technical summary ==
 
