@@ -42,7 +42,7 @@ Howto:
 # When you are happy, go live with your new article on the web server using the green "Commit changes" button below the text area.
 
 If you want to move something you did on the development system onto the production website:
-# Go through the steps above again, but for the production system, and paste the news article that you just wrote.
+# Go through the steps above again, but for the production system. Paste the news article that you just wrote.
 # Done.
 
 == A technical summary ==
