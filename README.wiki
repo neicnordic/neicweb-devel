@@ -18,7 +18,7 @@ Keep in mind:
 # Follow instructions onscreen. Click "Go live with this" button when done.
 # Write the article text on [https://github.com/neicnordic GitHub]
 #* [https://github.com/neicnordic/neicweb/ Source files for the production website]
-#* [https://github.com/neicnordic/neicweb-devel Source filses for the development system]
+#* [https://github.com/neicnordic/neicweb-devel Source files for the development system]
 # Go to the news article files. These live in the _posts/ folder:
 #* [https://github.com/neicnordic/neicweb/tree/master/_posts News article directory for the production website]
 #* [https://github.com/neicnordic/neicweb-devel/tree/master/_posts News article directory for the development system]
