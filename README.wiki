@@ -10,31 +10,35 @@ Assuming you have written the text in say word or similar.
 
 Keep in mind:
 * The production website is mostly purple and is called neicweb on GitHub. 
-* The test system is more orange, has "TESTING" in the window name, and is called neicweb-devel on GitHub. 
+* The development system is more orange, has "TESTING" in the window name, and is called neicweb-devel on GitHub. 
 
-* Upload picures and other media files.
-** Production website: [https://neic.nbi.dk/int/github/upload/]
-** or the test system: [https://neic.nbi.dk:59443/int/github/upload/]
-* Follow instructions onscreen. Click "Go live with this" button when done.
-* Write the article text on [https://github.com/neicnordic GitHub]
-** Production website [https://github.com/neicnordic/neicweb/]
-** or the test system [https://github.com/neicnordic/neicweb-devel]
-* News articles live in the _posts folder:
-** Production website: [https://github.com/neicnordic/neicweb-devel/tree/master/_posts]
-** or the test system: [https://github.com/neicnordic/neicweb-devel/tree/master/_posts]
-* Click a news article that looks similar to what you want.
-* Click the little pencil top right to "Edit this page".
-* Copy all the article text (click inside text box, Ctlr-A for select all, and Ctrl-C for copy).
-* Go back to the _posts/ directory.
-* Click the little plus next to the _posts/ folder title
-* Paste the article contents that you previously copied into the large text area.
-* Click the filename box, and add a title on the form:
-** YYYY-MM-DD-some-title.wiki 
-** (notice it starts with eg. today's date, all letters are lowercase, and it has  .wiki at the end)
-* Edit the article so it looks like you want it, using [https://www.mediawiki.org/wiki/Help:Formatting mediawiki syntax].
-** If the long lines disappear off the edge of the screen, select "Soft wrap" in the drop down menu in the top right corner of the text area.
-** You can click the "Preview changes" button in the top left corner of the text area to check that your text is fine.
-* When you are happy, go live with your new article on the web server using the green "Commit changes" button below the text area.
+# Upload picures and other media files.
+#* [https://neic.nbi.dk/int/github/upload/ Upload to production webserver]
+#* [https://neic.nbi.dk:59443/int/github/upload/ Upload to development system]
+# Follow instructions onscreen. Click "Go live with this" button when done.
+# Write the article text on [https://github.com/neicnordic GitHub]
+#* [https://github.com/neicnordic/neicweb/ Source files for the production website]
+#* [https://github.com/neicnordic/neicweb-devel Source filses for the development system]
+# Go to the news article files. These live in the _posts/ folder:
+#* [https://github.com/neicnordic/neicweb/tree/master/_posts News article directory for the production website]
+#* [https://github.com/neicnordic/neicweb-devel/tree/master/_posts News article directory for the development system]
+# Click a news article that looks similar to what you want.
+# Click the little pencil top right to "Edit this page".
+# Copy all the article text (click inside text box, Ctlr-A for select all, and Ctrl-C for copy).
+# Go back to the _posts/ directory.
+# Click the little plus next to the _posts/ folder title
+# Paste the article contents that you previously copied into the large text area.
+# Click the filename box, and add a title on the form:
+#* YYYY-MM-DD-some-title.wiki 
+#* (notice it starts with eg. today's date, all letters are lowercase, and it has  .wiki at the end)
+# Edit the article so it looks like you want it, using [https://www.mediawiki.org/wiki/Help:Formatting mediawiki syntax].
+#* If the long lines disappear off the edge of the screen, select "Soft wrap" in the drop down menu in the top right corner of the text area.
+#* You can click the "Preview changes" button in the top left corner of the text area to check that your text is fine.
+# When you are happy, go live with your new article on the web server using the green "Commit changes" button below the text area.
+
+If you want to move something you did on the development system onto the production website:
+# Go through the steps above again, but for the production system, and paste the news article that you just wrote.
+# Done.
 
 == A technical summary ==
 
