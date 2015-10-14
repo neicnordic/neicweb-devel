@@ -1,0 +1,38 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Abstract ==
+For a comprehensive overview of the workshop please go to
+
+https://www.nsc.liu.se/~torbenr/neic2015/
+
+National as well as international HPC and e-Science infrastructures are tasked
+with providing hardware resources and services to, in many cases, a wide and
+varied range of scientific domains and research disciplines within domains. To
+ensure that the provided resources are properly accessible to researchers and
+well utilised, several types of user support efforts are required.
+
+This workshop will take a broad view on user support efforts and look at
+examples of how to organize support, operational services to enable utilisation,
+training efforts, project support, proactive efforts, and other efforts that
+enable the utilisation of the infrastructure.
+
+* Organisational examples
+** Organise per discipline
+** First line, second line, etc. style
+** Visits, satellite persons
+** Use of many-to-many support frameworks (e.g. Stack Overflow style)
+* Operational services
+** Maintaining development environment
+** Maintaining scientific software
+** Frameworks for providing documentation and user instructions
+* Project support
+** Code profiling
+** Code porting
+** Code optimisation
+** ...
+* Proactive efforts
+** Automatic OOM alerts
+** Per job resource utilisation reports
+** ...

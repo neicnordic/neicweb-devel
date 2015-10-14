@@ -39,7 +39,7 @@ module Jekyll
             data2['menu'] = 100 if not data2.key?("menu")
             #puts @dir+": "+data1['menu'].to_s + " <=> " +other.dir+" "+data2['menu'].to_s
             if data1['menu'] == data2['menu']
-				return data1['title'] <=> data2['title']
+				return (data1['title'] || "") <=> (data2['title'] || "")
 			end
             return data1['menu'] <=> data2['menu']
         end

@@ -1,0 +1,19 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+
+== Bio ==
+Trained meteorologist at University of Oslo. Specialization (PhD and
+Post Doc.) in Climate-Chemistry interactions with development and use of
+atmospheric models (Univ. of Oslo, Univ. of California, Irvine and Univ.
+of Albany, NY). Worked 5 years as head of the HPC group at Univ. of
+Oslo. I am currently at the Research Council of Norway as special
+adviser, Dept. of Climate and Polar research, since 2009. I am on leave
+of absence to work in NordForsk (October 2013) for four years.
+
+Main interests are::  Nordic and International research collaboration,
+Climate change research and sustainability challenges, efficient use of
+Infrastructure in research (in particular the “e-“ ones)
+
+

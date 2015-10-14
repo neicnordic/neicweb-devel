@@ -1,0 +1,18 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+
+== Bio ==
+Sven Stafström is Director General for the Swedish Research Council. In
+1981 he graduate Fellowship at Department of Physics and Measurement
+Technology (IFM), Linköping University (LiU), and he has since 1981 a
+Master of Science, (LiU), Linköping, Sweden.
+
+Since 2000- he was a Professor and Head of the Computational Physics
+group, IFM.
+
+In 2001 he becomes Full Professor in Computational Physics, IFM,
+Linköping, Sweden.
+
+

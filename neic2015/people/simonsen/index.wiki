@@ -1,0 +1,17 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+David Simonsen is head of WAYF - Where Are You From, a Danish,
+publicly funded eID federation.
+
+He was previously member of the governments IT advisory board and has
+for more than a decade worked with federated infrastructures like
+<a href="http://www.eduroam.org">www.eduroam.org</a> (international
+academic wifi-roaming) and eID federations, also internationally.
+David is member of the steering committee for
+<a href="http://www.kalmar2.org">www.kalmar2.org</a> (inter-federation
+effort) and active in a handful of other fora.
+
+

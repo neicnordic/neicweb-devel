@@ -1,0 +1,6 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+A brief introduction to the session.

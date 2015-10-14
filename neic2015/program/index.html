@@ -1,0 +1,31 @@
+---
+title: "Program"
+description: "NeIC 2015 conference program"
+layout: menu-wide
+---
+{% assign event = site.data.neic2015 %}
+
+<h1> NeIC 2015 Conference Program </h1>
+
+<h2> Workshops </h2>
+If you have questions or input to the workshops you are welcome to contact the 
+workshop organizers directly, or the conference program committee.
+
+<h3> Workshop Day 1 - {{ event.program[0].day }} </h3>
+{% assign day = event.program[0] %}
+{% include neic2015/workshop_schedule.html day=day event=event event_root='/neic2015' %}
+
+<h3> Workshop Day 2 - {{ event.program[1].day }} </h3>
+{% assign day = event.program[1] %}
+{% include neic2015/workshop_schedule.html day=day event=event event_root='/neic2015' %}
+
+<h2> Conference </h2>
+
+<h3> Conference Day 1 - {{ event.program[2].day }} </h3>
+{% assign day = event.program[2] %}
+{% include neic2015/conference_schedule.html day=day event=event event_root='/neic2015' %}
+
+<h3> Conference Day 2 - {{ event.program[3].day }} </h3>
+{% assign day = event.program[3] %}
+{% include neic2015/conference_schedule.html day=day event=event event_root='/neic2015' %}
+

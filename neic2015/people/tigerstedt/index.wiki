@@ -1,0 +1,9 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Ex university department sysadmin, ex VoIP sysadmin, now in the data
+storage business after being recruited into the grid world.
+
+

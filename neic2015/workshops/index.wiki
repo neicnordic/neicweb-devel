@@ -1,0 +1,10 @@
+---
+title: Workshops
+description: Workshops
+layout: no-menu
+hidden: yes
+---
+= {{ page.title }} =
+
+{% for workshop in site.data[page.event].workshops %}* [[{{ workshop[0] }}|{{ workshop[1].title }}]]
+{% endfor %}

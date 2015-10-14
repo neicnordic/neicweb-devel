@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Thomas coordinates the new NeIC strategic area on environmental sciences
+which supports Nordic collaboration within initiatives such as
+EISCAT_3D, Nordic LifeWatch, GBIF, NordicESM, eSTICC, WRAM. He has a
+background in computer science and geography and is working with
+distributed e-Infrastructures for more than 15 years.  Thomas is located
+at the University Center for Information Technology at the University of
+Oslo, Norway.
+
+

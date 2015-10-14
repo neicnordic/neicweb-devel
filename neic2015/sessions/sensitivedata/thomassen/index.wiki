@@ -1,0 +1,31 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+In the last decade the demand for services for sensitive data – subjected to the
+Norwegian Personal Data Act §2, point 8 (religion, sex, health, union membership
+and prosecutions) - has significantly increased. The massive usage of video,
+MR-imaging and DNA-sequencing of humans has created a strong need for storage
+and computing resources for sensitive data, by far exceeding the traditional
+available resources, namely “single offline computer”. The University Center for
+Information Technology (USIT) at the University of Oslo (UiO) took on the task
+to create a solution that is both secure, user friendly and scalable. The
+solution designed and implemented by USIT, namely Services for Sensitive Data
+(TSD), is a multi-tenant platform for all kinds of IT-services for research.
+USIT launched the TSD service in May 2014, and offers virtual servers, storage,
+high performance computing (HPC) and data collection within this secure
+environment. The system hosts the research projects on virtual servers residing
+behind a strong firewall with a 2-factor authentication gateway. Each project is
+assigned to a private sub-net, and secure storage is provided using the new 7PB
+storage resource “Astrastore” at UiO. A dedicated HPC-resource is installed
+inside the secure environment to meet computational needs. A PGP encrypted
+version of the UiO web-questionnaire (Nettskjema) allows secure data harvesting,
+e.g. from surveys and questionnaires. Furthermore the governmental ID-portal is
+enabled for use with authentication to Nettskjema, thus allowing time-point
+studies with strong identification of respondents from the general population.
+Physical access to the TSD hardware is very restricted. In the Nordics, TSD is
+presently, as far as we know, one of the most advanced services for sensitive
+data in operation and maintained by a public research institution.
+
+

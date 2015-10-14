@@ -1,0 +1,18 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+The UK Data Service Secure Lab began providing secure remote access to
+confidential and sensitive microdata four years ago.  Previously, access to
+these data were only possible by visiting an ‘on-site safe room’.  Only
+researchers located within the vicinity of the safe room, or those with generous
+travel budgets and few departmental responsibilities, could access data and
+successfully complete projects.  For anybody else, the arrival of the Secure Lab
+heralded a new age of convenient access to confidential data, within a secure
+setting.
+
+In this presentation, I’ll provide an overview of the Secure Lab: our beginnings
+and how we operate the service.  I’ll also provide information on how we
+accredit researchers and provide training; our safe settings; and how we manage
+the release of ‘safe’ results generated from confidential sources.

@@ -1,0 +1,17 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Agenda ==
+* 13:30 - 13:55  EISCAT 3D onsite computing requirements, John White (EISCAT_3D Support project manager)
+* 13:55 - 14:20  NT1 operations and lessons learned for other Research Infrastructures, Mattias Wadenstein (NeIC NT1 area coordinator)
+* 14:20 - 14:45  Preparation for EISCAT_3D data archive and related FP7/H2020 projects, Ingemar Häggström (Head of Operations, EISCAT)
+
+== Abstract ==
+The NeIC project “EISCAT_3D Support” aims at supporting EISCAT in finding
+cost-efficient solutions for the construction, deployment and operation of the
+e-Infrastructure for the distributed EISCAT_3D research infrastructure. This
+session informs various stakeholders on the status of the NeIC project which
+started early 2015. The meeting is particularly intended for national
+e-Infrastructure providers, network providers, EISCAT staff and the NeIC
+community.

@@ -1,0 +1,20 @@
+{% assign event = include.event|default:site.data[page.event] %}
+{% assign event_root = include.event_root|default:page.event_root %}
+{% assign path_components = page.path|split:'/' %}
+{% assign session = include.session|default:path_components[-3] %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign talks = event.sessions[session].talks %}
+{% assign talk = talks|having:'id',id|default:talks|having:'speaker',id %}
+
+= {{ talk.title }} =
+<img class="smallpic" src="{{ event.people[talk.speaker].image|default:'/media/person.png' }}">
+[[{{ event_root }}/people/{{ talk.speaker }}|{{ event.people[talk.speaker].name }}]]
+
+{% capture slides %}{% for slides in talk.slides %}* [[{{ slides }}|{{ slides|split:'/'|last }}]]
+{% endfor %}{% endcapture %}
+{% if slides %}
+Slides:
+{{ slides }}
+{% endif %}
+

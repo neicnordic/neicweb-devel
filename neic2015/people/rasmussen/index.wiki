@@ -1,0 +1,17 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Work at National Supercomputer Centre (NSC) since 2008 as Application
+expert and act as coordinator for application experts within the Swedish
+National Infrastructure for Computing (SNIC).
+
+* Ph.D. in 2001
+* Five years of postdoctoral experience in the field of computational chemistry
+* Handle user relations, general support, software installations, etc.
+* Work with general usability improvements
+* Organize trainings
+* Work with project coordination and management
+
+

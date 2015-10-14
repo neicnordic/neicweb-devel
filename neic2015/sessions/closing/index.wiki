@@ -1,0 +1,18 @@
+---
+layout: no-menu
+---
+{% include neic2015/session.wiki %}
+
+== Abstract ==
+Researchers in all of the Nordic countries are making increasing use of local,
+national and international e-Infrastructure resources as part of their research
+routine.  Each of the countries supports their national researchers and
+cooperates through the Nordic e-Infrastructure Collaboration (NeIC) and through
+NORDUnet. Over time, this has resulted in strong efforts to develop and share
+programs that enhance the national and regional capabilities in multiple science
+areas important to the Nordic region. This session brings a panel together to
+discuss the future e-Infrastructure landscape in the Nordic region. Panelists
+include e-infrastructure provider representatives from the Nordics and beyond,
+as well as representatives from industry and Nordic organisations.
+
+

@@ -1,0 +1,24 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Janne Nikkinen, Doctor of Theology, University Lecturer (non-tenured) in
+Theological Ethics and Social Ethics. Chair of the Nordic Bioethics
+Committee (NordForsk).
+
+Research interests: Regulation of gambling, political decision-making
+regarding novel technologies (such as nanobiotechnology), and health
+care resource allocation.
+
+Activity: Nikkinen is a member of Academy Finland project “Gambling and
+European Welfare States”, and an Associate Partner of CEACG (Univ. of
+Helsinki Centre for Research on Addiction, Control and Governance). He
+has appointments of trust in the Ethical Board of Surgical Services in
+the Hospital District of Helsinki and Uusimaa (HUS) and Ethics Advisory
+Board of the Hjelt Institute, Faculty of Medicine, Univ. of Helsinki. He
+has addressed audiences in numerous academic events, including
+EU-sponsored (e.g., Nanoethics 2011 Warsaw, Human Enhancement 2012
+European Parliament, etc.).
+
+

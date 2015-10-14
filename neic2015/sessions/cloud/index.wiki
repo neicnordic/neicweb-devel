@@ -1,0 +1,21 @@
+---
+layout: no-menu
+---
+{% include neic2015/session.wiki %}
+
+== Abstract ==
+Significant intellectual property, financial investment and understanding reside 
+in software and are the reasons for the long life span of popular codes. 
+Institutions replace their hardware, but don’t easily dispose of their software 
+packages. The vast number of codes developed for research can consequently be 
+considered as a research infrastructure by itself. As is also the case with 
+physical infrastructures, software infrastructures evolve over time. The 
+underlying platforms change through technological innovation and systems need to 
+evolve continuously to stay relevant and provide value to the end-user.
+
+This conference session contains talks on developing services and enabling easy 
+access to scientific application resources. The session includes a presentation 
+on the NeIC cloud computing initiative Glenna, Salman Toor will present a cloud 
+Infrastructure for scientific applications and Nancy Wilkins-Diehr will give a 
+talk on the launch of science gateways in the US TeraGrid through the use of 
+XSEDE resources today. 

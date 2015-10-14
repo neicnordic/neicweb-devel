@@ -1,0 +1,37 @@
+---
+title: Social Events
+menu: 200
+---
+
+= {{ page.title }} =
+
+Here you will find some more practical information about the individual social events that accompany the programme.
+
+== NeIC Kayak Tour (limited to 38 participants) ==
+Tuesday 5th May 18:00-20:00
+
+From the Hanasaari Pier
+
+== Opening Get-Together and Barbeque ==
+Wednesday 6th May 18:00-21:00
+
+We will meet for a barbeque at Hanasaari.
+
+== NeIC Run ==
+Thursday 7th May 07:00-7:45
+
+For those who would like to start the day with a run we meet outside the Hanasaari front door and set out for a 45-minute run.
+
+== Conference dinner ==
+Thursday 7th May 19:00-23:00
+
+The conference dinner will take place at Restaurant Saaristo which is located on the isle of Klippan off the coast from the venue.
+
+A boat will take all participants to the restaurant and the schedule is outlined below.
+
+* 17:30 Boat departure from the Hanasaari pier (drinks will be served en route)
+* 18:30 Boat arrival to the Restaurant Saaristo pier
+* 19:00 Dinner
+* 22:45 Small boats departure to the main land
+* 23:00 Bus transportation departure (Saaristo pier - Kiasma - Holiday Inn Ruoholahti –Hanasaari)
+

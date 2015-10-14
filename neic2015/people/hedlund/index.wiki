@@ -1,0 +1,15 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Joel is currently employed at the National Supercomputer Centre (NSC),
+Linköping University, and works as coordinator for the NeIC Bio- and
+Medical Sciences strategic area. Joel was educated at Linköping
+University and has a PhD in Bioinformatics, focusing on automated
+protein family definition and distributed computing. He has worked with
+coordination of distributed projects, community building, and leading
+development projects for secure science gateways and persistent and
+accessible storage, and he is currently engaged as an Application Expert
+in Bioinformatics for the Swedish e-Science Research Centre.
+

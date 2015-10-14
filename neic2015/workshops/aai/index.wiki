@@ -1,0 +1,49 @@
+---
+---
+{% include neic2015/workshop.wiki %} 
+
+== Agenda ==
+Presentations are accessible from the links below.
+
+* 09.00. Welcome, around the table, 10 min
+* 09.10. What is a federation? David Simonsen, 15 min
+* 09.25. Policy coordination, evolving models of global trust fabrics and the federation operations David Groep, 15 min
+* 09.40. Credential repositories and CERN STS (slides included in presentation above)
+* 09.50. On-going and coming projects  David Simonsen, 5 min
+* 09.55. AARC, EU research and collaboration David Groep, 10 min
+* 10.05. Code of Conduct Mikael Linden, 10 min
+* 10.15. FIM4R - Federated Identity Management 4 Research Mikael Linden, 10 min
+* 10.25. Trends in federation architecture David Simonsen, 10 min
+
+== Abstract ==
+The 'Grids' were established more than a decade ago with a specific goal in
+focus: access management for very expensive compute- and storage pools available
+only for high-energy physics (HEP). The chosen technology is non-web, namely
+X.509 certificates. Large investments have been made in secure and highly
+trust-worthy policy frameworks that work well for this particular group of
+experts. It has so far not been possible to reach a level of usability where
+user groups outside the HEP community are also able to access the scientific
+resources connected to the Grids.
+
+'Federations' are large scale web-based infrastructures that build on entire
+institutional user management directory services and therefore typically covers
+all users at any connected institution. The federation policies, which appear to
+almost always to have national coverage (as opposed to e.g. a international
+scientific community like HEP) have been written to encompass many institutions
+and many different use cases, typically for lower-end services like learning
+management systems, publishers etc. Hence the broader scope and the generally
+lower requirements for identity proofing than seen in the Grid-community. The
+technology is predominantly XML-based protocols like SAML.
+
+The task is now to harvest the benefits from both worlds, the Grids and the
+federations: maintain the high degree of trust in user identity management and
+access control policies established by the Grids while at the same time provide
+the wealth of services and breadth of the federated user bases of the
+federations.
+
+One idea would be to establish services that translate X.509 certificates into
+SAML-assertions and vice versa. Another may be to re-combine existing
+infrastructure components like project Moonshot which aims a federating non-web
+services based on existing services like eduroam and web based federations.
+
+Your suggestion is as good as anyone's and warmly welcomed.

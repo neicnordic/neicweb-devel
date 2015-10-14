@@ -1,0 +1,15 @@
+{% assign event = include.event|default:site.data[page.event] %}
+{% assign event_root = include.event_root|default:page.event_root %}
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign session = event.sessions[id] %}
+= {{ session.title }} =
+Chair: [[{{ event_root }}/people/{{ session.chair }}|{{ event.people[session.chair].name }}]]
+
+{% capture slides %}{% for talk in session.talks %}* '''[[{{ talk.id|default:talk.speaker }}|{{ talk.title }}]]'''<br/>[[{{ event_root }}/people/{{ talk.speaker }}|{{ event.people[talk.speaker].name }}]] {% if talk.slides.size == 1 %} &nbsp; [[{{ talk.slides[0] }}|Slides]]{% elsif talk.slides.size > 1 %} &nbsp; Slides: &#91;{% for slides in talk.slides %}{% if forloop.index != 1 %}, {% endif %}[[{{ slides }}|{{ forloop.index }}]]{% endfor %}&#93;{% endif %}
+{% endfor %}{% endcapture %}
+{% if slides %}
+=== Slides ===
+{{ slides }}
+{% endif %}

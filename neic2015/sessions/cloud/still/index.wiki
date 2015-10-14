@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+The sharing of the cloud resources in the Nordic countries enables an easier
+form of collaboration for researchers. Instead of moving large amounts of data
+between countries, the analysis can be done where the data is. Sharing also
+evens out the peaks and valleys between resource demand and capacity in the
+individual sites/countries. The talk introduces the Glenna effort, where the
+goals are to share knowledge and set best practices on managing cloud services
+aiming at creating a Nordic federated cloud service, driven by the need of the
+Nordic researchers;
+

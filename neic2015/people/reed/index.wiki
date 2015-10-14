@@ -1,0 +1,24 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Daniel A. Reed is Vice President for Research and Economic Development,
+as well as University Chair in Computational Science and Bioinformatics
+and Professor of Computer Science, Electrical and Computer Engineering
+and Medicine, at the University of Iowa.  He currently serves as a
+member of the Department of Energy’s Advanced Scientific Computing
+Advisory Committee and as a member of the ICANN GNO Council. Previously,
+he was Microsoft’s Corporate Vice President for Technology Policy and
+Extreme Computing, where he helped shape Microsoft's long-term vision
+for technology innovations in cloud computing and the company's
+associated policy engagement with governments and institutions around
+the world.  Before joining Microsoft, he was the Chancellor’s Eminent
+Professor at UNC Chapel Hill, as well as the Director of the Renaissance
+Computing Institute (RENCI) and the Chancellor’s Senior Advisor for
+Strategy and Innovation for UNC Chapel Hill.  Prior to that, he was
+Gutgsell Professor and Head of the Department of Computer Science at the
+University of Illinois at Urbana-Champaign (UIUC) and Director of the
+National Center for Supercomputing Applications (NCSA).
+
+

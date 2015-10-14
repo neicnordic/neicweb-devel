@@ -1,0 +1,28 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Gudmund Høst is Director of the Nordic e-Infrastructure Collaboration
+(NeIC).
+
+Prior to this he held a position as Special Adviser to the Research
+Council of Norway, within e-Infrastructure, e-Science and computational
+mathematics.
+
+Previous positions include the position of Research Engineer at Det
+norske Veritas, Høvik, Norway, the Department of Oceanography and Wave
+Statistics, and also Chief Research Scientist at the Norwegian Computing
+Center working on statistical modeling of environmental data.
+
+During 2011-2012, he was Chair of the e-Infrastructures Reflection Group
+(e-IRG). He has been Chair of the Steering Board of Nordic Data Grid
+Facility, and has been central in the planning of the Nordic eScience
+Initiative and the development of the Nordic eScience Action Plan. He
+has participated in several expert committees on e-Infrastructure issues
+including assignments for the European Commission, the Netherlands,
+Norway, Sweden, South Africa and the USA.
+
+He holds a Master’s degree in Fluid Mechanics and a Doctorate in
+Science, Mathematical Statistics, both from the University of Oslo.
+

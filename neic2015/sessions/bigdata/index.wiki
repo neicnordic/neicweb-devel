@@ -1,0 +1,17 @@
+---
+layout: no-menu
+---
+{% include neic2015/session.wiki %} 
+
+== Abstract ==
+In pursuit of new knowledge, researchers in many fields of science seek
+to acquire vast amounts of experimental data. This brings the need of
+large international efforts to construct and operate extreme research
+data factories: from particle accelerators to explore the microcosm, to
+telescope arrays to explore the outer space. This session uncovers the
+challenges of providing e-infrastructures for such facilities. Mattias
+Wadenstein from HPC2N will present the Nordic centre for LHC computing,
+Thomas Holm Rod of ESS will outline the plans of the data management and
+software centre for the future neutron source, and Alison Kennedy of
+EPCC will give an overview of requirements faced by HPC
+e-infrastructures performing large scale data analytics.

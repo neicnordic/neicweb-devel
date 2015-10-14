@@ -1,0 +1,15 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Dr. Oxana Smirnova is an Associate Professor at the Particle Physics
+division in Lund University, Sweden. A graduate of Moscow State
+University, she obtained Ph.D. in physics from Lund University, working
+with the DELPHI experiment at CERN. She is a member of the ATLAS
+collaboration at CERN, working with Grid computing. Oxana Smirnova is a
+coordinator of LHC-related computing at the Nordic e-Infrastructure
+Collaboration (host of the NDGF Tier-1 centre), and is one of the
+developers of the NorduGrid ARC middleware.
+
+

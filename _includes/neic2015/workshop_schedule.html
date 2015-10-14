@@ -1,0 +1,35 @@
+{% assign breakwords = "break,coffee,lunch"|split:"," %}
+<table class="schedule">
+<caption>{{ include.caption }}</caption>
+<tr><th>Time</th><th colspan="{{ include.day.parallel_sessions }}">Workshops</th></tr>
+{% for slot in include.day.schedule %}
+    {% assign words = slot[1]|split:" " %}
+    {% assign type = words|first|downcase %}
+    <tr>
+    {% if breakwords contains type %}
+        <td class="slot break">{{ slot[0] }}<br/><span class="breaktype">{{ slot[1] }}</span></td>
+    {% elsif type == 'session' %}
+        <td class="slot session">{{ slot[0] }}<br/><br/><br/></td>
+        {% for workshop_id in words offset:1 %}
+            {% assign workshop = include.event.workshops[workshop_id] %}
+            <td width="{{ 100|divided_by:include.day.parallel_sessions }}%" rowspan="{{ workshop.sessions|times:2|minus:1 }}">
+            <span class="room">{{ workshop.room }}</span> <br/>
+            <a href="{{ include.event_root }}/workshops/{{ workshop_id }}" class="title">{{ workshop.title }}</a><br/>
+            {% for chair in workshop.chair %}
+                {% assign chair_id = chair[0] %}
+                {% assign person = include.event.people[chair_id] %}
+                <span class="chair">
+                <a href="{{ include.event_root }}/people/{{ chair[0] }}">{{ person.name }}</a>
+                (<a href='mailto:{{ chair[1] }}'>contact</a>)
+                </span>
+                <br/>
+            {% endfor %}
+            </td>
+        {% endfor %}
+    {% else %}
+        <td class="slot social">{{ slot[0] }}</td>
+        <td colspan="{{ include.day.parallel_sessions }}">{{ slot[1] }}</td>
+    {% endif %}
+    </tr>
+{% endfor %}
+</table>

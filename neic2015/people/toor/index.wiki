@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Salman Toor has done his Masters and PhD in Scientific Computing from
+Uppsala University, Sweden. In 2014, Toor finished his postdoctoral
+research in distributed computing infrastructures from Helsinki
+Institute of Physics, Finland. His area of expertise include management,
+scalability and performance of distributed computational and storage
+infrastructures for scientific applications. He is also an active member
+of Distributed Computing Applications (DCA) group at Uppsala University.
+
+

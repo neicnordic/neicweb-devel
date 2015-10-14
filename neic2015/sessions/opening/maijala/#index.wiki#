@@ -1,0 +1,33 @@
+--- id: maijala session: opening --- {% assign event =
+site.data.neic2015 %} {% assign id = page.id %} {% include
+neic2015/talk.wiki id=id event=event event_root='/neic2015' %}
+
+== Abstract ==
+Science is global, even though it is supported mostly by national and local
+funding, via national education efforts, support services and infrastructures.
+In addition to advancement of science and research, the national innovation
+system is critical for the sustainable development of society. In Finland, the
+Government Programme stresses the role of science, research and innovation as
+the foundation of knowledge and know-how, promoting sustainable economic growth
+and immaterial as well as material welfare.
+
+To foster the research system towards better competitiveness and higher quality,
+an open operational model is needed. Open science and research can significantly
+increase the quality and competitiveness of national research and innovation
+systems. By increasing openness in research, we will simultaneously be improving
+reliability, transparency, and the impact of research. Openness also creates new
+opportunities to participate in scientific advancement, and enables easier and
+more effective utilization of research results and supports citizen science.
+
+The Nordic collaboration within NeIC provides added value to researchers and
+national funders. Another example of such collaboration is NORDUnet and the area
+of computer networks, where Nordic collaboration has existed since 1980.
+NORDUnet has enabled the Nordic research and education community to work closely
+together with the international research community. Promoting open science and
+research requires not only extensive involvement from the research community,
+but also national and international cooperation and coordination, exploring new
+ways of working, and developing research environments, researcher services and
+research infrastructures. NeIC can offer a significant and valuable input by
+taking national efforts in open collaboration one step further within the Nordic
+collaboration.
+

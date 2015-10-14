@@ -1,0 +1,16 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Gunnar Bøe is the Managing Director of UNINETT Sigma2 since January 1st,
+2015. He has previously held a position as section manager for campus
+networks and systems at UNINETT. This included managing the
+UNINETT@campus program. He has also been the project manager for an
+information security project at UNINETT, which assists universities and
+university colleges with information security management. Before joining
+UNINETT in 2003, he worked with Ericsson in several positions overseas,
+in infrastructure, with network design and with research and
+development. Gunnar Bøe has a Master degree in Computer Science from the
+Norwegian University of Science and Technology (NTNU) in 1993.
+

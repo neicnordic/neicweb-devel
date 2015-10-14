@@ -1,0 +1,23 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+Abstract: The HPC computing ecosystem will be more encompassing than today’s.
+As high-end computers approaches exaflops peak speeds in the next few years, the
+scientific and engineering computing ecosystem will need to enable not only more
+accurate and complex simulations. Modes of usage will evolve as well, requiring
+expansion of the software ecosystem typically found on supercomputers.
+Throughput workflows for ensembles, uncertainty quantification, and validation
+will constitute an increasing fraction of the workload in HPC facilities.
+Data-intensive projects will increasingly resort to in situ and streaming data
+analysis.  Archives of simulation and experimental data will be made available
+openly to worldwide communities, posing challenges in security and policies for
+longevity of the data.
+
+Achieving good performance, especially strong scaling will be increasingly
+difficult because all systems will feature massive parallelism, less bytes of
+memory per flop, and a deeper memory hierarchy. Performance portability will be
+more important as well as more difficult to achieve, given the differences in
+the leading hardware architectures as well as the immaturity of programming
+models and much of the software stack.

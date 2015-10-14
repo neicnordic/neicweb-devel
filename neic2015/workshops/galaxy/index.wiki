@@ -1,0 +1,43 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Agenda ==
+Presentations are accessible from the links in the agenda.
+
+* 0900-0905: Welcome (Prof. Eivind Hovig, Oslo University Hospital)
+* 0905-0920: Introduction to Galaxy (Dr. Sveinung Gundersen, ELIXIR.NO, University of Oslo)
+* 0920-0940: Lessons learned from 8 years of developing The Genomic HyperBrowser on top of Galaxy (Dr. Sveinung Gundersen, ELIXIR.NO, University of Oslo)
+* 0940-0950: National e-Infrastructure for Life Science [NeLS], including presentation of a simple RNA-seq workflow (Dr. Sveinung Gundersen, ELIXIR.NO, University of Oslo)
+* 0950-1005: Lessons learned from developing complex workflows within Galaxy (Ghislain Fornous, Oslo University Hospital)
+* 1005-1020: Running Galaxy in an HPC environment (Dr. Nikolay Vazov, USIT, University of Oslo)
+* 1020-1030: Running Galaxy on interconnected HPC sites using ARC (Abdulrahman Azab, ELIXIR.NO, University of Oslo)
+
+1030-1100: Coffee break
+
+* 1100-1115: Running Galaxy in a secure environment using Docker (Abdulrahman Azab, ELIXIR.NO, University of Oslo)
+* 1115-1130: Chipster vs Galaxy, and how to interact (Aleksi Kallio, CSC - IT Center for Science, Finland)
+* 1130-1145: Using Galaxy for proteomics analyses (Dr. Jorrit Boekel, Bioinformatics Infrastructure for Life Sciences, Sweden)
+* 1145-1230: Discussion (Prof. Eivind Hovig, Oslo University Hospital)
+
+== Abstract ==
+Galaxy is an open source, web-based platform for data intensive research,
+presently primarily in the biomedical domain. Main benefits include
+reproducibility, transparency, and sharing across a multitude of biological
+inquiries, with many options for customization and access.
+
+It is supported by a very active developer community, and sports a large number
+of tools and workflows/pipelines across biology. There is increasing activity
+and usage in this environment within Europe and also in the Nordic setting.
+
+The workshop aims to bring together interested parties and competence in the
+Nordic region, to identify areas of common interest, develop collaboration, and
+sharing of resources and competence for furthering and broadening the activity.
+
+Various tools and systems will be presented, from genomic scale analyses to
+solutions for deep sequencing applications.
+
+This workshop is for anyone who has an interest in Galaxy, reproducible
+computation and/or sharing biology workflows.
+
+

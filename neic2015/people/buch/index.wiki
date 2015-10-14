@@ -1,0 +1,30 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+René Buch joined NORDUnet in 2005 and has since evolved an all ready
+capable network organization to a service oriented e-Infrastructure
+company.René Buch headed the evolution of the NORDUnet Network into a
+Dark fibre based versatile infrastructure enabling a range of services
+for the Nordic user communities.
+
+In addition to the NORDUnet Network René Buch has added the capabilities
+of NUNOC, the Nordic University Network and Infrastructure Operations
+Centre to the NORDUnet portfolio of services. René Buch represent the
+Nordic Countries in the GEANT2 Policy Committee. René Buch also serve as
+Director at the DANTE Board, member of the GEANT Executive Committee and
+as Chairman for the GEANT Innovation Committee
+
+René Buch came to NORDUnet from MCI (Now Verizon Business) where he
+served as Managing Director and board member for MCI in Denmark and
+Norway and as the company representative with the Telecommunications
+Industry association in Denmark.Prior to this René Buch has significant
+international experience within Design, Installation & Maintenance of
+high availability computer and communications systems for a number of
+large international companies.
+
+René Buch holds a B.Sc. degree in computer engineering from Odense
+University College of Engineering  supplemented with management courses
+from acknowledged Management Schools.
+

@@ -1,0 +1,57 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Live Streaming ==
+NeIC 2015 Conference Live Streaming page
+
+This workshop is live streamed to YouTube and will be accessible from there.
+
+== Agenda ==
+Presentations are accessible using the links below.
+
+* 13:30-13:40: Welcome and agenda, Gard Thomassen, USIT
+* 13:40-14:00: Safely across borders: a legal perspective on using sensitive data in cross-border research setting, Marjut Salokannel, SaReCo Oy
+* 14:00-14:20: Combination of Nordic health data registries, biobanks and advanced eScience tools for improved cancer prevention: The Nordic Information for Action eScience Center of Excellence (NIASC), Davit Bzhalava, NIASC
+* 14:20-14:40: ePouta - Secure Cloud Computing, Jura Tarus, CSC
+* 14:40-15:00: Tryggve project developing services for sensitive biomedical data: Call for Nordic use cases, Antti Pursula, NeIC
+* 15:00-15:30: Break
+* 15:30-15:50: Mosler, Peter Ankerstål, UPPMAX
+* 15:50-16:00: TSD, Gard Thomassen, USIT
+* 16:00-16:20: Software provisioning Inside a Secure Environment as Docker Containers: Experience, issues, and lessons learned, Abdulrahman Azab, USIT
+* 16:20-16:30: Risk assessment, Gard Thomassen, USIT
+* 16:30-17:00: All questions asked, some answered... Plenum
+
+== Abstract ==
+Serving research communities with storage, high-performance computing and
+software has until recently been dominated by IT-infrastructure for data with no
+privacy constraints. Projects with sensitive information (health, sex, religion,
+etc) have in general been small and hosted by offline desktops or within
+clinically approved hospital networks. The already present genomic data deluge
+combined with increased use of high definition images (fmri etc), video, sound
+and not at least the possibility of online data-harvesting (of sensitive data)
+covering thousands of respondents have changed the picture.
+
+This workshop will try to cover many aspects of the challenges that follows
+these new and vast demands. The list of topics covered will include but not be
+restricted to :
+
+* What is sensitive data
+* User requirements vs IT-security
+* Authorization and Authentication
+* Harvesting sensitive data
+* HPC for sensitive data
+* Sharing sensitive data
+* Storing and archiving sensitive data
+* Registry data online
+* Initiatives in the Nordics to meet the demands
+* Coming solutions and challenges
+
+This workshop is for anyone who does or plans to serve user groups having
+sensitive data, or for any member of these existing or coming user groups. We
+will try to enlighten you with regarding infrastructure initiatives, existing
+solutions, infrastructure architecture and caveats, solution planning and a
+small tour into the rules and regulations that systems must meet. Although these
+regulations are not in any way updated to face the reality of researchers being
+able to map the full genome of tens of people on one single sequencer in a
+matter of 6 days.

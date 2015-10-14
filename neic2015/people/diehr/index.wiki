@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Nancy is a co-principal investigator on several National Science
+Foundation awards - XSEDE, CyberGIS and the Science Gateways Institute.
+Nancy co-directs the Extended Collaborative Support program in XSEDE.
+Nancy received her Bachelor's degree from Boston College in Mathematics
+and Philosophy and her Master's degree in Aerospace Engineering from San
+Diego State University. She has been with SDSC since 1993 and has held a
+variety of management positions there.
+
+

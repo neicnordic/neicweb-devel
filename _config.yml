@@ -26,6 +26,13 @@ defaults:
         type: "posts"
     values:
         layout: news
+  -
+    scope:
+        path: ""
+        type: "pages"
+    values:
+        event: neic2015
+        event_root: /neic2015
          
 paginate: 100
 paginate_path: "/news/page:num/"

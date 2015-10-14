@@ -1,0 +1,14 @@
+---
+title: "Day 2"
+description: "NeIC 2015 conference session program day 2"
+layout: menu-wide
+---
+{% assign event = site.data.neic2015 %}
+
+<h1> Conference Program Day 2 </h1>
+
+<h3> Conference Day 2 - {{ event.program[3].day }} </h3>
+{% assign day = event.program[3] %}
+{% include neic2015/conference_schedule.html day=day event=event event_root='/neic2015' %}
+
+

@@ -1,0 +1,22 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Hanssen has his professional background in Geography and GIS from the
+Norwegian University of Science and Technology (NTNU), and was employed
+as GIS Coordinator/Analyst at the Norwegian Institute for Nature
+Research (NINA) in 2006. Funded by the Norwegian Research Council and
+NordForsk, Hanssen is co-responsible for coordination of the
+Norwegian/Nordic LifeWatch pilot projects, observation of the European
+ESFRI LifeWatch processes and coordination of the newly established
+Norwegian Long Term Ecological Research Network (LTER). Hanssen
+participated in the EU training program RAMIRI (Realising and Managing
+International Research Infrastructures) in 2011/2012. In addition to
+research infrastructure, Hanssen is heavily engaged on a daily basis in
+GIS project management, spatial ecology, applied ecological research,
+impact assessment, development of innovative GIS tools for siting of
+renewable energy production and capacity building in biodiversity
+informatics towards IPBES.
+
+

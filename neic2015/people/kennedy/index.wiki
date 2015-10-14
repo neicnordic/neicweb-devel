@@ -1,0 +1,27 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Alison Kennedy is Executive Director of EPCC, the High Performance
+Computing and Data centre based at the University of Edinburgh and is
+also a Member of the Board of Directors of the PRACE aisbl (the body
+which runs the European HPC infrastructure).
+
+EPCC runs national and local HPC services mainly for the academic
+research community in the UK, undertakes technology transfer projects
+with industry and is very active in large European research and
+infrastructure projects, including PRACE, EUDAT and CRESTA. She was
+employed initially at EPCC as a Project and Programme Manager,
+specialising in collaborative European projects, following a previous
+career working in industry as a real-time systems programmer, project
+manager and product manager for a variety of large technology companies.
+She has undergraduate degrees in History with Politics and Sociology
+(from the University of Edinburgh) and in Mathematics and Technology
+(from the Open University) and a post-graduate Business Administration
+degree (from Heriot-Watt University).
+
+She also sits on the Executive Board of EUDAT, the European project
+which is building a Collaborative Research Data Infrastructure.
+
+

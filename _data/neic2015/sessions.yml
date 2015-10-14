@@ -1,0 +1,179 @@
+opening:
+    title: Opening Session
+    chair: millnert
+    abstract:
+    talks:
+        - 
+            speaker: maijala
+            title: Welcome from Ministry of Education of culture
+            abstract: 
+            slides:
+                - /media/cognitus.jpg
+                - /media/arc-logo.png
+        - 
+            speaker: koski
+            title: Welcome from CSC
+            abstract: 
+            slides: 
+                - /media/cognitus.jpg
+        -
+            speaker: host
+            title: Kung Fu NeIC
+            abstract: 
+            slides: 
+                - /media/person.png
+        -
+            speaker: messina
+            title: Trends in HPC Environments
+            abstract: 
+            slides: 
+                - /media/tommi-at-work.jpeg
+
+bigdata:
+    title: E-Infrastructures for Extreme Research Data Factories
+    chair: smirnova
+    abstract: ok
+    talks:
+        -
+            speaker: wadenstein
+            title: Data and Computing infrastructure in Run2 and future
+            abstract: 
+            slides: 
+                - /media/frank-hanssen.jpeg
+        -
+            speaker: rod
+            title: The Plans for the European Spallation Source's Data Management 
+                and Software Centre 
+            abstract: 
+            slides: 
+                - /media/glowing.jpg
+        -
+            speaker: kennedy
+            title: 
+                "eInfrastructure for HPC and Data at a Local, UK and European
+                level: a Scottish perspective" 
+            abstract: 
+            slides: 
+                - /media/nancy-image.jpg
+
+sensitivedata:
+    title: Services for Sensitive Data
+    chair: pursula
+    abstract: ok
+    talks:
+        -
+            speaker: pursula
+            title: E-infrastructure for Sensitve Biomedical Data
+            abstract: 
+            slides: 
+                - /media/koala.jpg
+        -
+            speaker: thomassen
+            title: "TSD: a Secure and Scalable Service for Sensitive Data and eBiobanks" 
+            abstract: 
+            slides: 
+                - /media/cognitus.jpg
+        -
+            speaker: hansson
+            title: "BBMRI-ERIC ELSI Common Service and Applying Privacy Rights as well as
+                rights to medical treatment for large cohorts" 
+            abstract: 
+            slides: 
+                - /media/banjo.jpg
+        -
+            speaker: welpton
+            title: Four years of safe and secure access
+            abstract:
+            slides:
+                - /media/books.png
+            
+cloud:
+    title: Software as an Infrastructure
+    chair: still
+    abstract: ok
+    talks:
+        -
+            speaker: still
+            title: Glenna - The Nordic Cloud
+            abstract: 
+            slides: 
+                - /media/dan-street.jpeg
+        -
+            speaker: toor
+            title: A Secure Hybrid Cloud Infrastructure for Scientific Applications
+            abstract: 
+            slides: 
+                - /media/glenna-kickoff.jpeg
+        -
+            speaker: diehr
+            title: "The Science Gateways Program: From Inception to the Present Day"
+            abstract: 
+            slides: 
+                - /media/neic-flyer-2013.pdf
+        -
+            speaker: reed
+            title: Big Data Meets HPC
+            abstract:
+            slides:
+                - /media/rob-small.jpeg
+            
+climate:
+    title: Services for Climate and Environmental Research
+    chair: sundet
+    abstract:
+    talks:
+        -
+            speaker: sundet
+            title: Introduction to Services for Climate and Environmental Research 
+            abstract: 
+            slides: 
+                - /media/components-hierarchy.png
+        -
+            speaker: rummukainen
+            title: Climate Scenarios for Decisions and Policies
+            abstract: 
+            slides: 
+                - /media/gerd-maswan.jpeg
+        -
+            speaker: sorvari
+            title: European and international collaboration in Climate and Environmental
+                research 
+            abstract: 
+            slides: 
+                - /media/components-hierarchy.png
+        -
+            speaker: hanssen
+            title: "Nordic-Baltic collaboration on eInfrastructures for Biodiversity and 
+                Ecosystem Research" 
+            abstract:
+            slides:
+                - /media/koala.jpg
+            
+closing:
+    title: The future Nordic E-Infrastructure ecosystem
+    chair: stafstrom
+    abstract:
+    talks:
+        -
+            speaker: stafstrom
+            title: Panel debate
+            abstract:
+            slides:
+                - /media/components-hierarchy.png
+                - /media/cognitus.jpg
+            panel: 
+                - kennedy
+                - host
+                - longreen
+                - hall
+                - boe
+                - koski
+                - sigurdsson
+                - pennington
+                - buch
+        -
+            speaker: host
+            title: Conclusions and prizes
+            abstract:
+            slides:
+                - /media/arc-logo.png

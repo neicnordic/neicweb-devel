@@ -1,0 +1,21 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Søren Brunak, Ph.D., is professor of Bioinformatics at the Technical
+University of Denmark and professor of Disease Systems Biology at the
+University of Copenhagen. Prof. Brunak is the founding Director of the
+Center for Biological Sequence Analysis, which was formed in 1993 as a
+multi-disciplinary research group of molecular biologists, biochemists,
+medical doctors, physicists, and computer scientists. Søren Brunak has
+been highly active within biological data integration, where machine
+learning techniques often have been used to integrate predicted or
+experimentally established functional genome and proteome annotation.
+His current research does combine molecular level systems biology and
+healthcare sector data such as electronic patient records and biobank
+questionnaires. The aim is to group and stratify patients not only from
+their genotype, but also phenotypically based on the clinical
+descriptions in the medical records. An additional focus area is now
+adverse drug reactions. Søren Brunak is chair of ELIXIR Interim Board.
+

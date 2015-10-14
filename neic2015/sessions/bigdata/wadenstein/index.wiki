@@ -1,0 +1,10 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+The Large Hadron Collider at CERN is back after a long upgrade, and with plans
+for further upgrades ahead. In this presentation I will give an overview of the
+current data and computing infrastrcuture and how plans are made to meet future
+requirements.
+

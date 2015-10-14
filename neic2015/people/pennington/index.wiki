@@ -1,0 +1,17 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Rob Pennington, the Deputy Director for NCSA, oversees the activities in
+all of NCSA's directorates to ensure that the scientists and engineers
+using NCSA's resources and services see a unified, seamless environment
+that brings the most advanced technologies to bear on their problems. He
+is also responsible for coordinating major campus- and region-wide
+efforts to build an integrated cyberinfrastructure and he continues to
+lead the center's Innovative Systems Laboratory. Rob has led several
+NeIC efforts to produce reports on Nordic e-infrastructure needs and
+use, the latest and being the Cognitus project to produce the Nordic
+scientific case for high perfomance computing.
+
+

@@ -1,0 +1,12 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Thorvaldur is the Director of IT consulting at Deloitte in Iceland.
+Thorvaldur is an electrical engineer with over 26 years’ experience in
+information technology. Thorvaldur has specialized in the central
+computer system operations, quality control and contracting with
+suppliers.
+
+

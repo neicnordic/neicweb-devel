@@ -1,0 +1,20 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Mats Hansson leads the BBMRI ELSI common service together with three
+other co-directors, aiming to provide support in issues pertaining to
+ethical, legal and societal impact in biomedical research. He is the
+director of the Centre for Research Ethics & Bioethics and has conducted
+extensive research in biomedical ethics as principal investigator in
+several multi-disciplinary research projects dealing with issues ranging
+from ethical, social and legal aspects of the implementation of genetic
+diagnosis in clinical practice and the use of human tissue materials in
+research, to clinical and medical ethics. He holds an undergraduate
+degree in biology (1974) and a doctoral degree of theology (1991). Mats
+Hansson is Professor of Biomedial Ethics, funded by Uppsala University
+and the Uppsala County Council together. He also works as a clinical
+consultant at Akademiska sjukhuset (Uppsala University Hospital)
+
+

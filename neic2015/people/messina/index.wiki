@@ -1,0 +1,22 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Paul Messina is Director of Science at the Argonne Leadership Computing 
+Facility (ALCF) and an Argonne Distinguished Fellow. Dr. Messina guides
+the teams that support projects that use Mira, the ALCF’s 10 Petafflops
+IBM Blue Gene system. In 2002-2004, he served as Distinguished Senior
+Computer Scientist at Argonne and as Adviser to the Director General at
+CERN (European Organization for Nuclear Research). Previously at
+Caltech, Dr. Messina served as Director of the Center for Advanced
+Computing Research, as Assistant Vice President for Scientific
+Computing, and as Faculty Associate for Scientific Computing. He led the
+Computational and Computer Science component of Caltech’s research
+project funded by the Academic Strategic Alliances Program of the
+Accelerated Strategic Computing Initiative. He also acted as
+Co-principal Investigator for the National Virtual Observatory and
+TeraGrid. During a leave from Caltech in 1999-2000 he led the DOE-NNSA
+Accelerated Strategic Computing Initiative. At Argonne, he held a number
+of positions from 1973-1987 and was the founding Director of the
+Mathematics and Computer Science Division.

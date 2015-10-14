@@ -1,0 +1,18 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+The ELSI Common Service of the European infrastructure BBMRI-ERIC officially
+started 1 February. Regarding their ethical, legal and social aspects to
+consider, this ELSI-CS aims to facilitate and support cross- border exchanges of
+human biological resources and data attached for research uses, collaborations
+and sharing of knowledge, experiences and best practices among Member States.
+This will be done in full respect of the Charter of the Fundamental Rights of
+the EU, with the aim of promoting excellence in international biobank-based
+research. The charter lays down rights both to privacy and medical treatment and
+I will suggest how these should be balanced in large cohorts using personal data
+and biological samples
+
+
+

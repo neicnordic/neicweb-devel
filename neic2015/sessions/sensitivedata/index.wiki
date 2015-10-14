@@ -1,0 +1,22 @@
+---
+layout: no-menu
+---
+{% include neic2015/session.wiki %} 
+
+== Abstract ==
+Public registers, biobanks, health registers and research projects are examples
+of actors that collect and store vast amounts of data that has huge potential
+for advancing scientific research. However, much of the data is sensitive as it
+is including information on individuals and, naturally, the data needs to be
+stored and processed so that integrity and privacy of individuals is secured.
+Enabling the research utilising sensitive data while fulfilling legal
+requirements for privacy poses a challenge for research supporting
+e-Infrastructure.
+
+This conference session aims to share experiences on developing and operating
+services for sensitive data. Session includes a presentation of Nordic ELIXIR
+and NeIC initiative, Tryggve, aiming to enable corss-border collaboration on
+sensitive biomedical datat; a talk on secure and scalable service for sensitive
+data, TSD, at Oslo University; views from BBMRI ERIC Ethical, Legal and Social
+Issues activity; and experience from operating secure access services at UK Data
+Archive.

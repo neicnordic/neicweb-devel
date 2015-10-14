@@ -1,0 +1,47 @@
+{% assign breakwords = "break,coffee,lunch"|split:"," %}
+<table class="schedule">
+<caption>{{ include.caption }}</caption>
+<tr><th>Time</th><th colspan="{{ include.day.parallel_sessions }}">Session</th></tr>
+{% for slot in include.day.schedule %}
+    {% assign words = slot[1]|split:" " %}
+    {% assign type = words|first|downcase %}
+    <tr>
+    {% if breakwords contains type %}
+        <td class="slot break">{{ slot[0] }}<br/><span class="breaktype">{{ slot[1] }}</span></td>
+    {% elsif type == 'session' %}
+        <td class="slot session">{{ slot[0] }}<br/><br/><br/></td>
+        {% for session_id in words offset:1 %}
+            {% assign session = include.event.sessions[session_id] %}
+            <td width="{{ 100|divided_by:include.day.parallel_sessions }}%">
+            <a href="{{ include.event_root }}/sessions/{{ session_id }}" class="title">{{ session.title }}</a><br/>
+            <span class="chair">Chair: <a href="{{ include.event_root }}/people/{{ session.chair }}">{{ include.event.people[session.chair].name }}</a></span></br>
+            <ul>
+            {% for talk in session.talks %}
+                <li>
+                <a href="{{ include.event_root }}/sessions/{{ session_id }}/{{ talk.id|default:talk.speaker }}" class="title">{{ talk.title }}</a><br/>
+                <a href="{{ include.event_root }}/people/{{ talk.speaker }}">{{ include.event.people[talk.speaker].name }}</a>
+                <span class="slides">
+                {% if talk.slides.size == 1 %}
+                    <a href="{{ talk.slides[0] }}">Slides</a>
+                {% elsif talk.slides.size > 1 %}
+                    Slides: [{% for slides in talk.slides %}{% if forloop.index != 1 %}, {% endif %}<a href="{{ slides }}">{{ forloop.index }}</a>{% endfor %}]
+                {% endif %}
+                </span><br/>
+                {% if talk.panel %}
+                    <ul>
+                    {% for member in talk.panel %}
+                    <li><a href="{{ include.event_root }}/people/{{ member }}">{{ include.event.people[member].name }}</a>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endfor %}
+            </ul>
+            </td>
+        {% endfor %}
+    {% else %}
+        <td class="slot social">{{ slot[0] }}</td>
+        <td colspan="{{ include.day.parallel_sessions }}">{{ slot[1] }}</td>
+    {% endif %}
+    </tr>
+{% endfor %}
+</table>

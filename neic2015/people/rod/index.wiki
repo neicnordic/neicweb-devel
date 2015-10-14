@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Thomas H. Rod has been involved with the design and planning of the ESS
+Data Management and Software Centre for the last four years. He
+initially got involved via a Danish in kind contribution to the ESS
+lead by University of Copenhagen but has for the last year been a member
+of the ESS staff where he currently is the Group Leader for Data
+Analysis and Modelling. Thomas' background is in scientific software
+development and computer simulations and modelling of materials where he
+has had an active career in both academia and industry in Denmark.
+

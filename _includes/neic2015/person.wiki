@@ -1,0 +1,31 @@
+{% assign event = include.event|default:site.data[page.event] %}
+{% assign event_root = include.event_root|default:page.event_root %}
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign person = event.people[id] %}
+= {{ person.name }} =
+<img class="smallpic" src="{{ person.image|default:'/media/person.png' }}">
+Affiliation: {{ person.org }}<br/>
+Job title: {{ person.role }}
+{% capture slides %}{% for session in event.sessions %}{% for talk in session[1].talks %}{% if talk.speaker == id %}* Session: [[{{ event_root }}/sessions/{{ session[0] }}|{{ session[1].title }}]]<br/>[[{{ event_root }}/sessions/{{ session[0] }}/{{ talk.id|default:talk.speaker }}|{{ talk.title }}]]
+{% for slides in talk.slides %}** [[{{ slides }}|{{ slides|split:'/'|last }}]] {% if session[1].chair == id %}(chair){% endif %}
+{% endfor %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
+{% if slides.size != 0 %}
+=== Slides ===
+{{ slides }}
+{% endif %}
+{% capture chair %}{% for workshop in event.workshops %}{% if workshop[1].chair[id] %}* Workshop: [[{{ event_root }}/workshops/{{ workshop[0] }}|{{ workshop[1].title }}]] ([mailto:{{ workshop[1].chair[id] }} contact]) 
+{% endif %}{% endfor %}{% comment %}
+{% endcomment %}{% for session in event.sessions %}{% if session[1].chair == id %}* Session: [[{{ event_root }}/sessions/{{ session[0] }}|{{ session[1].title }}]]
+{% endif %}{% endfor %}{% endcapture %}
+{% if chair.size != 0 %}
+=== Chair ===
+{{ chair }}
+{% endif %}
+{% capture panelist %}{% for session in event.sessions %}{% for talk in session[1].talks %}{% if talk.panel contains id %}* Session: [[{{ event_root }}/sessions/{{ session[0] }}|{{ session[1].title }}]]<br/>[[{{ event_root }}/sessions/{{ session[0]}}/{{ talk.speaker }}|{{ talk.title }}]]
+{% endif %}{% endfor %}{% endfor %}{% endcapture %}
+{% if panelist.size != 0 %}
+=== Panelist ===
+{{ panelist }}
+{% endif %}

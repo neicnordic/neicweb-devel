@@ -1,0 +1,13 @@
+---
+title: People
+description: Event speakers and chairs
+layout: no-menu
+menu: 200
+---
+
+= People =
+Speakers, chairs and panelists of the NeIC 2015 conference.
+
+{% for person in site.data.neic2015.people %}* [[{{ person[0] }}|{{ person[1].name }}]]<br/><span style="font-size: small;">{{ person[1].role }}, {{ person[1].org }}</span>
+{% endfor %}
+

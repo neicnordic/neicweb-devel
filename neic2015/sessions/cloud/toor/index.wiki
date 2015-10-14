@@ -1,0 +1,22 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+The cloud paradigm allows building a scalable computational and storage
+infrastructure for a variety of applications. Currently most of cloud platforms
+are based in a single datacenter facility. This model serves well as it allows
+efficient resource management and security. However the model of building large
+computational islands still requires communication and coordination between
+them.
+
+The DII-HEP private cloud, based on the OpenStack cloud suite and the Gluster
+file system, is designed to provide a scalable and secure private infrastructure
+for scientific applications. The infrastructure is evaluated with the Compact
+Muon Solenoid (CMS) data analysis framework, a highly challenging scientific
+application that requires computational, storage and network resources. For
+handling security issues, we have used the Host Identity Protocol (HIP). The HIP
+approach is portable (vendor agnostic), tenant oriented and thus can be deployed
+in any IaaS cloud. In DII-HEP, the HIP based security layer provides bases for
+building a secure multi-tenant and hybrid environment
+

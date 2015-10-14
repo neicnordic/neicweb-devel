@@ -1,0 +1,16 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Dejan Vitlacil is Generic Area Coordinator of the Nordic
+e-Infrastructure Collaboration (NeIC).
+
+He holds position of System Manager at PDC Center for High Performance
+Computing at the KTH Royal Institute of Technology.
+
+His experience includes management, configuration and development, of
+activities, storage and data infrastructures, at the institutional,
+national and international level.
+
+

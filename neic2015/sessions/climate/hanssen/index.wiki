@@ -1,0 +1,24 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+Large European research infrastructures are presently being developed on the
+Roadmap of the European Strategy Forum on Research Infrastructures (ESFRI). The
+Nordic countries have followed the European LifeWatch ESFRI initiative closely
+on its way from the preparatory phase towards the realization of LifeWatch ERIC
+in 2015. In 2012-2013 the Nordic LifeWatch consortium (representatives from
+several Nordic research institutions) performed a LifeWatch pilot project with
+financial support from NordForsk.  The pilot project identified needs,
+bottlenecks and possibilities; and developed strategies for future construction
+of a common Nordic- Baltic eInfrastructure dedicated to enhance the scientific
+collaboration and the science-policy interface between the individual countries.
+A Nordic-Baltic collaboration can support and improve the coordination of the
+national eInfrastructure initiatives, provide a common Nordic-Baltic interface
+at the European level; and develop overarching cost-efficient eInfrastructures
+and Virtual Research Environments (VRE) for the benefit of improved Biodiversity
+and Ecosystem Research both at national, Nordic/Baltic and European level.
+Through the collaboration with the national stakeholders and the Nordic
+eInfrastructure Collaboration (NeIC) these ambitions will be addressed at the
+NeIC 2015 Environment Workshop.
+

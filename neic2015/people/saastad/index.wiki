@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Ole Widar Saastad is Senior Engineer  and work in Research
+Infrastructure Services Group Research Infrastructure Services Group is
+responsible for national e-infrastructure services for computation,
+storage of research data and more. The group is also responsible for
+UiO's involvement in national, Nordic and European initiatives and other
+cooperation projects and initiatives in the field of e-infrastructure
+and scientific computing.
+
+

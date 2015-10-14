@@ -1,0 +1,16 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Abstract ==
+The combined sessions will be a game between 3 or more teams. The teams will get
+control over storage that they are supposed to build a coherent storage system
+usable from another system, using access methods that supports federated
+identities.
+
+The jury will stress test the systems the teams build and decide which team has
+built the system performing best for a cluster trying to stress it hard.
+
+The jury will run an ARC cluster, and will try to get a data-intensive workload
+from the storage teams over 10G ethernet. The teams can select the software they
+want to use themselves.

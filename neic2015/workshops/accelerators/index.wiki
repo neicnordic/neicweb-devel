@@ -1,0 +1,43 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Abstract ==
+Accelerators like NVIDIA CUDA and Intel MIC processors are increasingly relevant
+for production systems. Large scale production systems employ both NVDIA cuda
+and Intel MIC type processors (FPGA adaptation is too small to be considered in
+this workshop).
+
+We know that major installations like Oak Ridge laboratory and Lawrence
+Livermore are pursuing the accelerator performance. While the theoretical
+performance is outstanding it has proven hard to utilise this performance for
+general production codes and even more so for legacy codes. Many of us are faced
+with a large fraction of such legacy codes and the need for tools like general
+purpose compilers are still unsatisfied. While openACC and openMP 4.0 are steps
+forward they still require change of the source code.
+
+The workshop will focus on assessing the current situation around the sites, it
+would be beneficial if a representative from each relevant site could give a few
+minutes overview addressing the point below :
+
+* Installed hardware, planned installment and planned procurement of accelerators.
+* Current usage, applications using accelerators, tools like compilers etc.
+* Work in progress to utilize accelerators using installed hardware and planned new hardware.
+* Experience with accelerators.
+
+The discussion should focus on how to address the situation with accelerators.
+Should future systems be fully accelerated or should accelerators be a small
+subset of exotic hardware attached ? The performance offered by the accelerators
+are tantalizing,and if harvested it would give significantly higher scientific
+production for comparatively less investment (at least in hardware).
+
+The institutions like the US ones above are putting a lot of focus on tools that
+let the users have easy access to accelerator performance using standards like
+OpenACC, OpenMP 4.0 etc. Is this an option for Nordic sites ? If one decide to
+go all out using accelerators one must be prepared to do a major investment in
+tools, training and user support to exploit the accelerator hardware, including
+major rewrite of many applications.
+
+On the other hard – are accelerators just a hype ? Will the future look like
+convergence between current x86-64 and MIC architectures ? Or maybe just more
+powerful MICs ? Or CUDA type massively threaded accelerators ?

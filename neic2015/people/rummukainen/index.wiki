@@ -1,0 +1,20 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Markku Rummukainen, born in 1966 in Turku, PhD in meteorology, and at
+present affiliated as professor in climatology at Lund University as
+well as Climate Advisor at Swedish Meteorological and Hydrological
+Institute (SMHI) in Sweden. He studied at the University of Helsinki,
+where he earned a PhD in 1997. His doctoral thesis was about the global
+modeling of the middle atmosphere. Between 1991 and 1997, he carried out
+research on polar ozone at the Finnish Meteorological Institute. Between
+1997 and 2007, he worked at the Rossby Centre at the Swedish SMHI, with
+focus on advanced regional climate modelling. Since 2007, his work at
+SMHI has focused on the use and utility of climate research in the
+society, with expert duties. In 2011 he was appointed Professor of
+Climatology at Lund University where he now leads a strategic research
+area on Climate Models, and engages in science/policy/practice dialogues.
+
+

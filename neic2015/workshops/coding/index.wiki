@@ -1,0 +1,103 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Abstract ==
+The workshop follows a rather unusual format: The entire time is reserved for
+arranged one-on-one meetings between participants, with each participant
+presenting a development project he or she is a  signifiant contributor to,
+followed by a free-form discussion about whatever subject the two participants
+feel are of interest to them. The workshop will be divided into slots of 12 to
+15 minutes, after which participants rotate according to a laid out plan - speed
+dating style.
+
+The intent is to create awareness about like minded individuals in the community
+and about other development projects the Nordic community contributes to, as
+well as facilitate peer learning about languages, libraries, tools, and
+methodologies.
+
+As a participant you are to chose a software development project to which you
+have made recent significant and repeated contributions, and for which you are
+comfortable presenting and justifying most aspects of the software and the
+project itself. You are to bring along a laptop with the software and its source
+code preloaded and you are to prepare a one minute “elevator pitch” about the
+project, focusing on its the technical aspects.
+
+As there may not be enough time to pair up everybody during the  workshop,
+participants are asked to submit a short essay about their  chosen project ahead
+of time. This will serve to avoid pairing participants, that work on the same
+project. The essays will also be compiled to a workshop report that participants
+can use as a project catalogue after the meeting. The essays must be submitted
+no later than Friday the 24th of April, briefly explaining the context, the
+project and the software (again focusing on the fact that this is a workshop for
+coders). Please submit the essay as PDF or clear text to behrmann@ndgf.org, with
+the subject “Coding Workshop Essay”.
+
+Rather than establishing fixed rules for this essay, an example of an essay is
+posted below.
+
+---
+
+* Delegate:  Gerd Behrmann
+* Delegate’s role:	Core developer
+* Project:  dCache
+* URL:   http://www.dcache.org/
+* License:  AGPL 3
+* Source:  https://github.com/dcache/dcache
+* Version control:	git
+* SLOC:   300,000
+* Current number of contributors: 8 (more or less full time)
+* Tools used:  Review Board, Jenkins, RT
+* Main language:  Java 8
+* Build system:  Maven
+* Major libraries:	Spring, Guava, Netty, Jetty, SLF4j/Logback, HikariCP,
+* Milton, DataNucleus, liquibase, PostgreSQL, nfs4j (in house), xrootd4j (in house)
+
+Description:
+
+dCache is an open source hierarchical distributed storage service developed in
+collaboration between DESY, FNAL, and NeIC. It hosts a major share of the Large
+Hadron Collider data on many sites world wide. In recent years it is gaining
+traction in areas outside of high energy physics too, e.g. DESY is hosting a
+research cloud storage infrastructure backed by dCache.
+
+A core design feature of dCache is the orthogonality of logic organisation (name
+space), physical storage (disk, tape), and access protocol (http, ftp, nfs,
+xrootd, srm). Thus files can be moved logically in the name space without
+physically moving files, they can be physically moved or replicated between
+disks, tapes or between disk and tape without affecting the logical view of
+those files, and uploaded and downloaded through independent protocols (e.g.
+uploaded through FTP and downloaded through HTTP) and independent of both
+logical and physical organisation.
+
+dCache is distributed in that it aggregates simple storage from many storage
+nodes into a single uniform storage solution. Although physical storage may be
+hosted on high end SANs or may be implemented with distributed file systems, the
+preferred platform is a large number of simple storage boxes, since dCache is
+able to do the aggregation. SANs and distributed file system do not provide
+significant value to dCache and simple storage is far more cost effective, often
+with better performance.
+
+To the extend allowed, all supported access protocols are implemented by
+redirecting the client to the physical storage node, thus allowing a direct flow
+between the storage node and the client. This design reduces networking costs
+and allows dCache to be distributed over WANs in addition to LANs.
+
+Cache is developed in Java, providing a certain degree of platform independence.
+We actively try to reduce our dependencies on externalpackages, although we do
+bundle a fair number of third party librarieswith dCache. dCache is implemented
+on top of an in-house message passingand service hosting framework, and provides
+build in monitoring andadministration modules. It is build with Maven, and the
+source code is hosted at Github. The delegate’s favorite IDE is IntelliJ (it
+used to be Emacs), although other developers use NetBeans or Eclipse.
+
+dCache development is distributed, with teams at three locations. The project
+developers communicate through email and Google Hangouts, have a weekly video
+meeting, and a yearly physical meeting, use Review Board for peer reviewing (no
+commit without review!), and use Jenkins for continuos integration and
+automation. Releases are time boxed, with a major release every three to four
+months and patch level releases as often as every week.
+
+We host a public mailing list for our users, provide support through email
+(using Request Tracker) and host two weekly phone conferences for our biggest
+users. We organise a yearly three day workshop for our user community.

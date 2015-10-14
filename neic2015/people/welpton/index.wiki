@@ -1,0 +1,23 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+After graduating with a Masters degree in Economics, Richard Welpton
+began his career in 2007 in the UK Office for National Statistics
+Virtual Microdata Laboratory (VML), supporting academic and government
+researchers with business microdata, before moving to the UK Data
+Archive in 2010 to assist in establishing the Secure Data Service.  That
+service has now been fully integrated into the UK Data Service, and
+Richard now oversees the operations of the Secure Lab as a member of the
+Archive’s Information Security Management Group.  In addition, Richard
+has overall responsibility for statistical disclosure control of
+research outputs that are released from the Secure Lab environment, and
+ensuring that researchers are satisfactorily trained in this area.
+Richard has contributed to this subject, speaking at conferences such as
+the UNECE/Eurostat statistical confidentiality workshop, and contributed
+to ESSnet and DwB guidelines.  Richard also attends the UK Anonymisation
+Network and represents the Archive on statistical confidentiality
+matters.
+
+

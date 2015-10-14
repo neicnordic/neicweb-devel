@@ -1,0 +1,22 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Holger Dettki studied Biology and Chemistry at the Einstein University
+Ulm, Germany, before he moved to Sweden. He earned his doctoral degree
+in 2000 at Umeå University, working on landscape ecology models for
+lichen dispersal and establishment. Working as a GPS and GIS expert, he
+became involved in 2003 in GPS-tracking projects of moose in Northern
+Sweden at the Swedish University of Agricultural Sciences (SLU) and
+developed software tools to automate data handling and visualization.
+Between 2011 and 2014 he was tasked by the Swedish Research Council with
+the upgrade of these tools into the Wireless Remote Animal Monitoring
+(WRAM) e-infrastructure as the national database node for biotelemetry
+sensor data from animals. He is currently heading the Umeå Center for
+Wireless Remote Animal Monitoring (UC-WRAM) at SLU and engaged in
+national and international cooperations on biotelemetry data management
+and sharing. Beside this engagement he works as an Associate Professor
+in several projects analyzing animal movement and behavior of e.g.,
+brown bear, moose, or golden eagle.
+

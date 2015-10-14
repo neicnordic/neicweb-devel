@@ -1,0 +1,52 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Agenda ==
+* 09.00 - 09.10   Welcome by Chair, Nordic Committee on Bioethics
+
+'''Nature of issues'''<br/>
+Moderator: Gunhild Isfeld
+* 09.10 - 09.40   Genetic information and research: Questions, concerns and lessons learnt Linda Laatikainen, the Finnish Institute for Molecular Research (FIMM)
+* 09.40 - 10.10   "Using sensitive data in population based health research: A researcher's perspective", Gun Peggy Knudsen, Norwegian Institute of Public Health
+* 10.10 - 10.40   "Dynamic communication with the donor population - ethical, legal and technical perspectives", Kristian Hveem, Norwegian University of Science and Technology
+
+10.40 - 11.00    Break
+
+'''Legal, philosophical and ethical perspectives'''<br/>
+Moderator; Arnar Palsson
+* 11.00 - 11.20   "Privacy as an ethical and philosophical challenge", Salvor Nordal, Center for Ethics in the University of Iceland
+* 11.20 - 11.40   "Philosophical perspectives", Thomas Ploug, University of Århus
+* 11.40 - 12.00   The Silent Revolution: How Iceland quietely moved from time-limits and consent, for confidential medical data research, to permanent storage and subsequent use without consent Hörður Helgi Helgason, Partner, Landslög Law Offices, Iceland
+
+== Abstract ==
+The handling, security and use of data have become more important than ever due
+to implementation of internet and new technologies. Reports of identity theft
+and leaking of sensitive information are commonly discussed in the context of
+private businesses. However, it is important to discuss the role and ethics of
+data accumulation and sharing also in the public sector. For example, in 2004
+U.S. FDA approved chip for storing medical information within a human body
+(VeriChip). Similarly, genotyping of humans is nowadays prevalent in medical
+research. Still, many questions about the storing and sharing of the data remain
+either unresolved or unrecognized, even by those conducting the research.
+
+In 2012, the European Committee of Ethics and Emerging Technologies (EGE)
+published a report about ICT-ethics, in which it paid attention to issues
+related to sensitive data and its usage in the public realm on the level of
+European Union. This session is organized to raise awareness about the ethical
+and legal issues in relation to sensitive data storing/sharing especially in the
+Nordic countries. The issues include informed consent of the citizens,
+controlling access to data in public institutions, and working with research
+ethics committees, to ensure that all parties have their say in the process.
+
+The target audiences for this event are both practitioners and public officials
+who are involved in shaping the relevant laws, regulations and policies mainly
+in relation to storing sensitive medical information. We focus on who will have
+access to sensitive medical data (occupational health care, other public and
+private health care operators), what kind of information is stored, in which
+kind of context it is used, etc. It may well be the case that data contains
+information that is either inconvenient for persons themselves, or can be used
+in assistance of health care rationing and resource allocation. Furthermore, it
+is important to discuss the ways how data is disseminated among the parties
+conducting the research (especially in the case the research is multi-centered,
+having also commercial interests).

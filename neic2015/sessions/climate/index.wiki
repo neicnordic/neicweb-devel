@@ -1,0 +1,16 @@
+---
+layout: no-menu
+---
+{% include neic2015/session.wiki %}
+
+== Abstract ==
+Climate and Environmental research is almost impossible to do without
+einfrastructure. Observations, analysis, modelling, storage, databases,
+satellite retrievals, data ingestion, are examples of einfrastructures
+researchers and engineers are totally dependent on to do climate and/or
+environmental research.  But, also, when the societal contract is to be
+fulfilled, giving back to society of the new insights gained, one is dependent
+upon einfrastructure to accumulate, analyze, simplify, visualize, data to make
+complex information readily available for the general public and decision makers.
+
+

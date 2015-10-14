@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Gerd Behrmann works for NeIC in the capacity of software systems                  
+specialist. He has been a core developer for dcache.org since 2007, and
+before that a core developer of uppaal.org since 2000.
+
+Gerd Behrmann has previously worked as a software developer at NORDUnet
+and a distributed data management architect at NDGF. Before joining
+NORDUNET he held the title of associate professor at Aalborg University,
+from where he also holds a PhD in computer science.
+

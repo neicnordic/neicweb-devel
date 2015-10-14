@@ -1,0 +1,10 @@
+---
+title: Conference sessions
+description: Conference sessions
+layout: no-menu
+hidden: yes
+---
+= {{ page.title }} =
+
+{% for session in site.data[page.event].sessions %}* [[{{ session[0] }}|{{ session[1].title }}]]
+{% endfor %}

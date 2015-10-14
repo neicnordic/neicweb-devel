@@ -1,0 +1,13 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Director, Dr. Riitta Maijala leads the Science Policy Section of the
+Department of Higher Education and Science Policy, Ministry of Education
+and Culture in Finland and is in charge of drafting and implementing
+strategies of science, research and innovation policies and use of
+scientific knowledge. Previously she has worked as Director, Professor,
+Head of Unit and researcher in the EU and national organizations. She
+has been the chair and member of many international and national
+committees and working groups.

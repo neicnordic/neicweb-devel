@@ -1,0 +1,4 @@
+---
+layout: no-menu
+---
+{% include neic2015/session.wiki %}

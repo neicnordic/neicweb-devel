@@ -1,0 +1,23 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Kimmo Koski started in his current position as Managing Director of the
+Finnish IT center for science, CSC, in August 2004. Prior to his present
+position, Koski spent 4.5 years in Nokia Research Center and Nokia
+Technology Platform. Earlier work experience includes 10 years at CSC in
+various positions and a one-year visiting period in CERN in Switzerland.
+Koski received his doctorate from Helsinki University of Technology in
+January 1996. His dissertation was on Metacomputing Technology. During
+the recent years Koski has been active in building European HPC and data
+infrastructure through chair and vice-chair positions in major EU
+initiatives, such as PRACE (supercomputing) and EUDAT (data
+infrastructures). He has also actively participated in data center
+development including the establishment of the eco-efficient CSC
+datacenter located in a former paper-mill in Kajaani. In addition to
+European positions, Koski has been active in building the Nordic
+collaboration including steering group position in Nordic
+e-Infrastructure Collaboration (NeIC).
+
+

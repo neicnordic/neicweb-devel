@@ -1,0 +1,57 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Agenda ==
+Session 09:00 - 10:30:
+
+* 09:00 - 09:15 Introduction, Thomas Röblitz (NeIC Environment Area Coordinator)
+* 09:15 - 09:35 EISCAT_3D Project Overview, Ingrid Mann (Head of Projects, EISCAT)
+* 09:35 - 09:55 EISCAT_3D e-Infrastructure, John White (NeIC EISCAT_3D Support project)
+* 09:55 - 10:25 Inverse Modelling of Emissions into the Atmosphere, Andreas Stohl (Senior Scientist, Norwegian Institute for Air Research)
+
+Break 10:30 - 11:00
+
+Session 11:00 - 12:30:
+* 11:00 - 11:30 Nordic ESM, Jon Egill Kristjansson (Department of Geosciences, University of Oslo)
+* 11:30 - 12:00 Handling 'Big Data' from Animal-Based Biotelemetry Sensors - Challenges and Solutions, Holger Dettki (Umeå Center for Wireless Remote Animal Monitoring)
+* 12:00 - 12:30 Swedish LifeWatch E-Infrastructure: Insights from Five Years of Construction, Oskar Kindvall (Swedish University of Agricultural Sciences)
+
+== Abstract ==
+Environmental research studies a wide range of topics from the human impact on
+marine ecosystems to understanding the solid part of the earth surface to
+biodiversity informatics to atmospheric phenomena to name only a few. The
+scientific analysis begins with monitoring physical, chemical, biological and
+other environmental values which exhibit large ranges of temporal and spatial
+scales across borders of several countries. Understanding the complex
+interactions of environmental processes is increasingly requiring to couple
+models of different fields and to integrate various data sources. Research
+results may have a great impact on the healthy environment of large populations
+and their sustainable future.
+
+The need to understand environmental processes on the regional and global scale
+has led to increased collaboration on developing research infrastructures (for
+example, by the ESFRI roadmap on the European level). Advanced e-Infrastructures
+are needed to process and store the data gathered by emerging research
+infrastructures. As the research infrastructures are shared by larger and larger
+internationally distributed collaborations, e-Infrastructures need to scale with
+the increased demands and support more complex analyses. Because findings in
+environmental research have implications for so many parts of our global
+society, results have to be made available to researchers, governmental agencies
+and the general public.
+
+On January 1st, 2015, NeIC has established a new strategic area for
+environmental sciences which will facilitate the development and deployment of
+e-Infrastructures for enabling and improving collaboration among the Nordic
+countries. By presenting the status, plans and challenges for various fields in
+environmental research, this workshop aims at exchanging knowledge and fostering
+new collaborations on the development of e-Infrastructures.
+
+Workshop topics include but are not restricted to
+
+* tools for collaboration via the internet
+* data and metadata: characteristics (time scales, spatial scales), formats,  sources, transfer (amount, remote locations), aggregation, conversion, processing, distributing, real-time access, access licenses, archiving, curation
+* computing: analytical tools, batch processing, paradigms (sequential, shared memory, distributed memory, map reduce), workflows
+* networks: connection to remote sensing sites
+* development and deployment of e-Infrastructures: national, regional, international level; integration into umbrella organizations; funding; technology match; interoperability
+* cross-disciplinary challenges

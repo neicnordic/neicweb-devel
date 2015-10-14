@@ -1,0 +1,25 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+Our understanding of the Climate/Earth system builds on a wealth of present-day
+and historical observations as well as proxy data on past climates, our
+understanding of the laws of nature and experimentation with climate models. By
+combining these different sources of information, we have been able to find out
+about how climate has varied and changed in the course of time and possible
+reasons behind, as well as how the climate is behaving today, in our own time.
+For the present-day world, this knowledge is also needed to investigate how
+alternative decisions about development affect the future climate and how the
+observed global warming trend continues to unfold. The future is unobservable,
+and many decisions which matter for climate change remain to be taken during the
+next years and decades. This constitutes an uncertainty on our future climate,
+but also signifies that we can choose between different alternatives, such as a
+two-degree global warming or a four-degree world by the end of this century.
+Advanced climate models have very high HPC-requirements, but in return offer
+scientific means of projecting the outcome of near- and mid-term decisions of
+greenhouse gas emissions (and thus the underlying policy, investment, energy,
+technology, population and consumption trends) on mid- and long-term climate
+outcomes and subsequently climate impacts. This presentation highlights the
+utility of climate modelling for climate-related decisions and policies.
+

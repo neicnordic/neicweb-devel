@@ -1,0 +1,21 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+In science and engineering, a tsunami of new experimental and computational data
+and a suite of increasingly ubiquitous sensors pose vexing problems in data
+analysis, transport, visualization and collaboration. Cloud computing and “big
+data” are extending our notions of computational science and engineering,
+bringing technical, political and economic challenges.  What are the hardware
+and software structures and capabilities that best exploit these capabilities
+and economics while providing application compatibility and community
+continuity? What lessons can we learn from the world of big data and HPC and how
+can they best co-exist? How do we optimize performance and reliability? How do
+we integrate the emerging Internet of Things and ubiquitous sensors for
+multidisciplinary fusion, while also managing security and privacy?  This talk
+will compare and contrast the social, technical, political and economic
+attributes of big data software and hardware with those of high-performance
+computing, drawing implementation lessons and suggesting opportunities for
+research and deployment.
+

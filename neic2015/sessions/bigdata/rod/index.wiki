@@ -1,0 +1,23 @@
+---
+id: rod
+session: bigdata
+---
+{% assign event = site.data.neic2015 %}
+{% assign id = page.id %}
+{% include neic2015/talk.wiki id=id event=event event_root='/neic2015' %}
+
+== Abstract ==
+During the next couple of years the European Spallation Source (ESS) will be
+constructed in Lund, Sweden. This project involves 17 European partner countries
+including the two host countries Sweden and Denmark. From the outset of the
+planning for ESS the importance of having an integrated software, and hardware,
+infrastructure for instrument control, data acquisition, data reduction and data
+analysis for the instruments was recognized. The Data Management and Software
+Centre (DMSC), located in Copenhagen, is responsible for delivering this
+infrastructure and will be working closely with collaborators from facilities,
+and universities, in the ESS partner countries to leverage experience, knowledge
+and existing software in order to achieve this. In this presentation I will
+describe how data acquisition will take place once ESS is in operation and our
+current plans for the data processing and management infrastructure that DMSC
+will deliver for the ESS instruments in the coming years.
+

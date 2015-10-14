@@ -1,0 +1,21 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Sanna Sorvari has her scientific background in climate and Arctic
+research, paleoecology and limnology. She is experienced in
+coordinating, initiating and planning of international and national
+research activities in environmental science, especially in the recent
+years she has worked for establishing ESFRI Environmental Research
+Infrastructures at the national and European level (e.g. ICOS, ACTRIS,
+ANAEE. Sorvari has also facilitated the collaborative work of
+Enviromental RIs at the European level (Chair of the ENVRI stakeholders’
+Advisory Board) and at the international level (WP leader for
+COOPEUS-project, member of Belmont Forum's Env. data management action).
+She is also a member of H2020 Expert Advisory Board for RIs and e-RIs.
+In addition, she is working on Joint Programming, especially in JPI
+Climate as a co-chair of Working Group on Mowing towards Reliable
+Climate Predictions and as a member of the JPI Climate Management Board.
+
+

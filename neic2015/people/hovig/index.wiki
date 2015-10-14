@@ -1,0 +1,19 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Bioinformatics - leading the Oslo University Hospital bioinformatics
+core facility, and fitting into the national bioinformatics effort. The
+latter will now be focused on the development of the national Elixir
+regional node in Oslo, building on the work from the Functional Genomics
+platform (FUGE).
+
+Wet-lab - leading the Oslo University Hospital/University of Oslo
+genotyping core facility.
+
+Eivind Hovig is also engaged in trying to develop information on
+historical DNA variation in Norway, in collaboration with a range of
+scientists across Norway
+
+

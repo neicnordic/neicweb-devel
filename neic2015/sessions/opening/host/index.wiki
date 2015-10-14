@@ -1,0 +1,11 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+What are the most fruitful avenues for Nordic collaboration on e-Infrastructure
+and how can successful outcomes be guaranteed? I will present my understanding
+of the context in which NeIC is operating, as well as our strategy to take the
+opportunities and meet the challenges for collaboration on e-Infrastructure
+issues. Based on engagement and competence from an extensive virtual team, I
+will share some Kung Fu lessons learned and suggest further steps. 

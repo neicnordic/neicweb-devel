@@ -1,0 +1,30 @@
+---
+---
+{% include neic2015/workshop.wiki %}
+
+== Agenda ==
+* 13:30 Welcome (Dejan Vitlacil - NeIC/PDC) (10 min)
+* 13:40 Custom Query Interface for SAMS (Magnus Jonsson - NeIC/HPC2N) (20 min)
+* 14:00 SGAS & NDGF/WLCG (Erik Edelmann NeIC/CSC) (20 min)
+* 14:20 Islandic SGAS deployment (Anil Thapa - RHÍ) (20 min)
+* 14:40 Software accounting (Magnus Jonsson - NeIC/HPC2N) (20 min)
+
+Break
+
+* 15:30 Storage accounting in EUDAT (Florian Kaiser EUDAT/RZG) (20 min)
+* 15:50 Cloud initiatives and accounting (John Gordon EGI Federated Cloud) (20 min)
+* 16:10 SGAS project status and SGAS roadmap discussion (Magnus Jonsson NeIC/HPC2N) (50 min)
+
+== Abstract ==
+NeIC continues its bi-annual meetings to provide a forum for those interested in
+the state of accounting in the Nordic countries. These meetings serve as
+knowledge transfer and discussion boards, furthermore they also serve as
+reference for roadmap discussion for the ongoing NeIC SGAS maintenance project.
+Further Nordic projects related to accounting are highly encouraged.
+Consolidated and consistent accounting within the Nordic computing centres is
+considered as one of the top-priority topics within Nordic e-Infrastructure.
+Besides the continued SGAS roadmap discussion the main purpose of this workshop
+is to increase the knowledge exchange on accounting between the Nordic countries
+and to serve as a framework for possible collaboration partners to lift further
+accounting projects to a Nordic level.
+

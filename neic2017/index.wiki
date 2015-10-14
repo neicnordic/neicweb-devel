@@ -1,0 +1,13 @@
+---
+title: "NeIC 2017"
+description: "NeIC conference 2017"
+#hidden: "yes"
+---
+
+= NeIC conference 2017 =
+
+NeIC Conference 2017 will be held X - Y May in Umeå, Sweden.
+
+* Registration opens in January 2017. 
+* [http://wiki.neic.no/wiki/neic2017 NeIC 2017 on NeIC wiki]
+* [[program|Draft program]]

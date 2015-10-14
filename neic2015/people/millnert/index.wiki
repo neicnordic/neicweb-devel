@@ -1,0 +1,16 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Millnert is presently chairperson of the SNIC board. He was previously
+Director General for the Swedish Research Council and Vice Chancellor
+(Rektor) of Linköping University. He has also been the chairperson of
+SUNET.
+
+He holds a position as professor in Control Engineering at Linköping
+University. Millnert has a Master’s degree in Engineering (Engineering
+Physics and Electronics), 1977 and a Ph.D. in Control Engineering, both
+from Linköping University, 1982.
+
+

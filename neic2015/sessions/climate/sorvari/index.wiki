@@ -1,0 +1,16 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+Observations of climate and environmental quantities are in intimate
+relationship with eInfrastructure.  To do measurements themselves is nowadays
+based on automatic systems, with computers, storage, networks  as the backbone.
+Measurements at a single location is seldom sufficient to gain new insights, and
+networks of observations are necessary. In Europe the largest, and most
+important, networks are part of the ESFRI (European Strategy Forum on Research
+Infrastructures) roadmap.  In addition, important international observational
+networks as GAW (Global atmospheric watch), GCOS (Global Climate Observing
+System), are also found. These networks and collaborations are dependent upon
+eInfrastructure.
+

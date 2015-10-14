@@ -996,3 +996,62 @@ article .visual em{
 	font-size: 11pt;
 	word-wrap: break-word;
 }
+
+body.wide #main {
+    max-width: 1550px;
+}
+
+/* Conference program */
+
+#content .schedule p {
+    margin: 0;
+}
+
+.schedule {
+    background: #fbfbfa;
+    border: 1px solid lightgray;
+}
+
+.schedule tr {
+    vertical-align: top;
+}
+
+.schedule .slot .breaktype {
+    font-size: small;
+}
+
+.schedule .slot.break {
+    background: #fbfbfa;
+}
+
+.schedule th {
+    padding: 0 0.5em;
+    border: 1px solid lightgray;
+}
+
+.schedule td {
+    padding: 0 0.5em;
+    border: 1px solid lightgray;
+    background: white;
+}
+
+.schedule [colspan]:not([colspan="1"]) {
+    text-align: center;
+} 
+
+.schedule .title {
+    font-weight: bold;
+}
+
+.schedule .room {
+    font-size: small;
+}
+
+.schedule .chair {
+    font-size: small;
+}
+
+.schedule .slides {
+    font-size: small;
+    margin-left: 2em;
+}

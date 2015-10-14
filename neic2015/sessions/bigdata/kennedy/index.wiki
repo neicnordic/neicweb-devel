@@ -1,0 +1,15 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+EPCC is a major HPC and Data Centre and services provider based at the
+University of Edinburgh in Scotland. HPC is increasingly being used not only for
+modelling and simulation, which generates large volumes of data, but also as a
+tool for analysis of large datasets collected by sensors or other instruments.
+This presentation looks at the differing requirements and challenges of
+providing large scale compute and data services at a local, regional, national
+and European level and at the role of major eInfrastructures like PRACE in
+supporting a growing demand for integrated HPC and large scale data analytics.
+
+

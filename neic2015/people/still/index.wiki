@@ -1,0 +1,13 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Dan works at CSC Finland and is appointed by NeIC as project leader for
+the Glenna cloud computing project. the objective of the Glenna project
+is to share knowledge, set best practices on managing cloud services and
+to create a Nordic federated cloud service. The vision is that once a
+Nordic federated cloud service is in place Nordic researchers could run
+their experiments and manage their data on any Nordic Cloud resource.
+
+

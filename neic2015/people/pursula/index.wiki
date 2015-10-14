@@ -1,0 +1,11 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Antti is working as a project director in research infrastructures at
+CSC, and appointed by NeIC as project leader for Nordic Tryggve project.
+As a collaboration of NeIC and ELIXIR nodes, Tryggve is developing
+platform for sensitive biomedical data to facilitate sharing, combining
+and processing of sensitive data in secure and legally compliant setting.
+

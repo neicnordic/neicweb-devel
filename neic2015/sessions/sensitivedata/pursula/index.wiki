@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+Public registers, biobanks, health register and research projects collect and
+store vast amounts of data that has huge potential for advancing scientific
+research. A prime example is the biomedical research aiming to improve human
+health. Naturally the data needs to be stored and processed so that integrity
+and privacy of individuals is secured. This talk introduces a collaboration in
+ELIXIR Nordic nodes and NeIC, the Tryggve project, that aims to produce means
+for sharing, combining and processing sensitive biomedical data across Nordic
+countries.
+

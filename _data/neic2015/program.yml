@@ -1,0 +1,57 @@
+- 
+    day: Tuesday 5th
+    parallel_sessions: 4
+    schedule:
+        "08:00": Arrivals
+        "09:00": Session aai environment galaxy
+        "10:30": Coffee
+        "11:00": Session accelerators
+        "12:30": Lunch
+        "13:30": Session sensitivedata coding accounting e3ds
+        "15:00": Coffee
+        "15:30": Session
+        "17:00": Break
+        "18:00": <a href="/neic2015/social">NeIC Kayak Tour</a>
+        "21:00": End
+-
+    day: Wednesday 6th
+    parallel_sessions: 4
+    schedule:
+        "09:00": Session security support competition bioethics
+        "10:30": Coffee
+        "11:00": Session
+        "12:30": Lunch
+        "13:30": Session
+        "15:00": Coffee
+        "15:30": Session
+        "17:00": Break
+        "18:00": <a href="/neic2015/social">Opening Get-together and Barbecue</a>
+        "21:00": End
+-
+    day: Thursday 7th
+    parallel_sessions: 1
+    schedule:
+        "07:00": <a href="/neic2015/social">NeIC Run</a>
+        "08:00": Registration
+        "09:00": Session opening
+        "10:30": Coffee
+        "11:00": Session bigdata
+        "12:30": Lunch
+        "13:30": Session sensitivedata
+        "15:00": Coffee
+        "15:30": Session cloud
+        "17:00": Break
+        "17:30": <a href="/neic2015/social">Boat trip to Restaurant Saaristo</a>
+        "19:00": <a href="/neic2015/social">Conference dinner at Resturant Saaristo, on the island Klippan.</a>
+        "22:45": <a href="/neic2015/social">Return boat from Resturant Saaristo departs from the pier.</a>
+
+-
+    day: Friday 8th
+    parallel_sessions: 1
+    schedule:
+        "09:00": Session climate
+        "10:30": Coffee
+        "11:00": Session closing
+        "12:30": Lunch
+        "13:30": End
+        

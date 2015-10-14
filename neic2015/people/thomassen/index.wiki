@@ -1,0 +1,10 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Gard Thomassen has a MSc in computer science and a PhD in
+bioinformatics. Former work includes design and analysis of microarrays,
+and computational analysis of Next Generation Sequencing data. He now
+works for the University Center for Information Technology (University
+of Oslo) as project leader for the project "Services for sensitive data".

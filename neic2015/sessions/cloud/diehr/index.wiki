@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/talk.wiki %}
+
+== Abstract ==
+Science gateways, also known as web portals, are having a tremendous influence
+on access to high performance computing. This talk will describe the launch of
+science gateways in the US TeraGrid program in 2004 through the use of XSEDE
+resources today. I will highlight gateway efforts more generally, for example
+the International Workshop on Science Gateways and a new workshop beginning in
+Australia. I will also discuss the results from a recent 29,000 person US-based
+survey on gateway use, development activities and the need for a community
+support model.
+

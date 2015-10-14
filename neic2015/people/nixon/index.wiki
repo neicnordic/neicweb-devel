@@ -1,0 +1,17 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+He has previously served as a security officer for the National
+Supercomputer Centre, The Swedish National Infrastructure for Computing
+and the Nordic DataGrid Facility, in addition to coordinating the
+Incident Response Task Force for the European Grid Infrastructure.
+
+Leif Nixon currently works at Red Hat (from March 1, 2015).
+
+Affiliated with SUNET Cert.
+
+Areas of expertise: Linux Security Incident Response.
+
+

@@ -1,0 +1,17 @@
+{% assign event = include.event|default:site.data[page.event] %}
+{% assign event_root = include.event_root|default:page.event_root %}
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign workshop = event.workshops[id] %}
+= {{ workshop.title }} =
+Chair:
+{% for chair in workshop.chair %}{% assign chair_id = chair[0] %}* [[{{ event_root }}/people/{{ chair[0] }}|{{ event.people[chair_id].name }}]] ([mailto:{{ chair[1] }} contact]) 
+{% endfor %}
+
+{% capture slides %}{% for slides in workshop.slides %}* [[{{ slides }}|{{ slides|split:'/'|last }}]]
+{% endfor %}{% endcapture %}
+{% if slides.size != 0 %}
+=== Slides ===
+{{ slides }}
+{% endif %}

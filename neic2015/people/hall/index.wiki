@@ -1,0 +1,14 @@
+---
+---
+{% include neic2015/person.wiki %}
+
+== Bio ==
+Maria previously worked as Deputy Director at the Government Offices of
+Sweden - Ministry of Enterprise, Energy and Communications at the
+division for IT Policy. Maria has extensive experience of working with
+ICT, broadband and Internet Policy issues, both in the private and
+public sectors, on local, national and international levels.
+
+Maria is member of RIPE NCC Executive Board and co-chairing the RIPE
+Cooperation Working Group.
+
