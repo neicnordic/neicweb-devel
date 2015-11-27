@@ -8,9 +8,19 @@
 <img class="smallpic" src="{{ person.image|default:'/media/person.png' }}">
 Affiliation: {{ person.org }}<br/>
 Job title: {{ person.role }}
-{% capture slides %}{% for session in event.sessions %}{% for talk in session[1].talks %}{% if talk.speaker == id %}* Session: [[{{ event_root }}/sessions/{{ session[0] }}|{{ session[1].title }}]]<br/>[[{{ event_root }}/sessions/{{ session[0] }}/{{ talk.id|default:talk.speaker }}|{{ talk.title }}]]
-{% for slides in talk.slides %}** [[{{ slides }}|{{ slides|split:'/'|last }}]] {% if session[1].chair == id %}(chair){% endif %}
-{% endfor %}{% endif %}{% endfor %}{% endfor %}{% endcapture %}
+{% capture slides -%}
+{%- for session in event.sessions -%}
+    {%- for talk in session[1].talks -%}
+        {%- if talk.speaker == id -%}
+             * Session: [[{{ event_root }}/sessions/{{ session[0] }}|{{ session[1].title }}]]<br/>{# no newline here
+               #}[[{{ event_root }}/sessions/{{ session[0] }}/{{ talk.id|default:talk.speaker }}|{{ talk.title }}]]
+            {%- for slides in talk.slides -%}
+                ** [[{{ slides }}|{{ slides|split:'/'|last }}]]{% if session[1].chair == id %}(chair){% endif %}
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endfor -%}
+{%- endcapture %}
 {% if slides.size != 0 %}
 === Slides ===
 {{ slides }}
