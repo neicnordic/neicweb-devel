@@ -1,7 +1,7 @@
 ---
 title: "She did it..."
 summary: "NeIC Admin Coordinator posts wonderful article om website un-assisted"
-image: "/media/carnival-of-cultures-berlin-11-1492253-639x852.jpg"
+image: "/media/carnival-of-cultures-berlin-11-1492253-639x852-mini.jpg"
 ---
 
 = She did it... =
