@@ -1,6 +1,6 @@
 Enter file contents here---
-title: "She did it..."
-summary: "NeIC Admin Coordinator posts wonderful article om website un-assisted"
+title: "Nordic model offers unique set of competencies in large data set analysis"
+summary: "Although it might be more cost-effective to consolidate six Nordic computing centres into one, the Nordic distributed model provides a unique set of competencies."
 image: "/media/carnival-of-cultures-berlin-11-1492253-639x852-mini.jpg"
 ---
 
@@ -43,4 +43,4 @@ The evaluation report compares a number of possible scenarios for how the Nordic
 
 “The board will consider the analysis carefully in order to find out how we can introduce some savings to the operational costs of the Tier 1 and still maintain most of the benefits of current collaboration,” says Pekka Lehtovuori.
 
-Read the evaluation report here
+[https://wiki.neic.no/wiki/File:NT-1-Evaluation-report.pdf Read the evaluation report here]
