@@ -20,10 +20,6 @@ Health data used for research purposes are typically anonymised by removing pers
 
 ==Project development with user involvements==
 
-Dr Flix estimates in the evaluation that the annual operational costs could be cut from roughly Euro 3 million to Euro 2.3 million by consolidating the six centres into a single location.
-
-==Project development with user involvements==
-
 A key component of the Tryggve project is that the IT services are being developed through what the project calls “use cases”, i.e. concrete cases where researchers bring the projects they need assistance with. If the scientists feel their research could benefit from Tryggve’s services, they can make a request via a simple online form. There are few requirements imposed: a study must involve multiple Nordic countries and sensitive data.
 
 If the Tryggve experts find that the requesting study fulfils the requirements, they start a more in-depth dialogue in which researchers and Tryggve team members figure out what is needed.
