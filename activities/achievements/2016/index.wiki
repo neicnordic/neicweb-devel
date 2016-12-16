@@ -2,7 +2,7 @@
 title: 2016
 description: NeIC achievements in 2016.
 ---
-# NeIC Achievements in 2016
+== NeIC Achievements in 2016 ==
 
 '''Pool Competencies''': 
 * Nordic [https://neic.nordforsk.org/training/#training-calendar training calendar] established. See upcoming events [https://neic.nordforsk.org/training/upcoming/ here].
