@@ -1,0 +1,7 @@
+---
+title: Achievements
+description: NeIC Achievements.
+---
+== Achievements ==
+
+Some text should go here I guess.
