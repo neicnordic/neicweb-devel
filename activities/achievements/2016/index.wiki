@@ -1,0 +1,23 @@
+# NeIC Achievements in 2016
+
+'''Pool Competencies''': 
+* Nordic [https://neic.nordforsk.org/training/#training-calendar training calendar] established. See upcoming events [https://neic.nordforsk.org/training/upcoming/ here].
+* CodeRefinery project started
+* E3DS project now has participation from Sigma2 (NO), CSC (FI) and HPC2N (SE). 
+
+'''Share Resources''': 
+* Demonstrated cross-border use of secure cloud resources for sensitive data processing. 
+* Demonstrated portability of software portfolios between sensitive data systems 
+* Cloud services deic.data.dk (DK) and Lifeportal (NO) accessible cross-border
+* SNIC-CSC Letter of Intent on cloud collaboration. 
+
+'''Secure Long-Term Funding''': 
+* Agreement between NeIC principal partners on long-term funding and national shares. 
+* Funding application to the Research Council of Norway. 
+
+'''Strengthen Stakeholder Dialogue''': 
+* Community-driven projects started within biodiversity, earth system modeling and natural language processing.
+* EISCAT_3D Support project delivered several recommendations to EISCAT on requirements
+* E3DS and EISCAT visited computing facilities CSC/Kajaani; Sigma2/Tromso; HPC2N/Umeå.
+* Presentations in international meetings Glenna, Tryggve. News article in NordForsk magazine...
+* Cost-assessment of Nordic Tier-1: In-depth engagement during the investigation phase and framework for strategy discussions with stakeholders.
